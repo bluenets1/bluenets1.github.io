@@ -1,0 +1,62 @@
+From the cyber defensive security perspective, we covered how to store passwords securely for authentication systems. Let’s tackle this from the offensive security perspective; if we start with a hash, how can we recognize its type, eventually crack it, and recover the original password?
+
+Automated hash recognition tools such as [hashID](https://pypi.org/project/hashID/) exist but are unreliable for many formats. For hashes that have a prefix, the tools are reliable. Use a healthy combination of context and tools.  If you find the hash in a web application database, it’s more likely to be MD5 than NTLM (NT LAN Manager). Automated hash recognition tools often get these hash types mixed up, highlighting the importance of learning yourself.
+
+### Linux Passwords
+
+On Linux, password hashes are stored in `/etc/shadow`, which is normally only readable by root. They used to be stored in `/etc/passwd`, which was readable by everyone.
+
+The `shadow` file contains the password information. Each line contains nine fields, separated by colons (`:`). The first two fields are the login name and the encrypted password. More information about the other fields can be found by executing `man 5 shadow` on a Linux system.
+
+The encrypted password field contains the hashed passphrase with four components: prefix (algorithm id), options (parameters), salt, and hash. It is saved in the format `$prefix$options$salt$hash`. The prefix makes it easy to recognize Unix and Linux-style passwords; it specifies the hashing algorithm used to generate the hash.
+
+Here’s a quick table of some of the most common Unix-style password prefixes you might encounter. They are listed in the order of decreasing strength. You can read more about them by checking the man page with `man 5 crypt`.
+
+|Prefix|Algorithm|
+|---|---|
+|`$y$`|yescrypt is a scalable hashing scheme and is the default and recommended choice in new systems|
+|`$gy$`|gost-yescrypt uses the GOST R 34.11-2012 hash function and the yescrypt hashing method|
+|`$7$`|scrypt is a password-based key derivation function|
+|`$2b$`, `$2y$`, `$2a$`, `$2x$`|bcrypt is a hash based on the Blowfish block cipher originally developed for OpenBSD but supported on a recent version of FreeBSD, NetBSD, Solaris 10 and newer, and several Linux distributions|
+|`$6$`|sha512crypt is a hash based on SHA-2 with 512-bit output originally developed for GNU libc and commonly used on (older) Linux systems|
+|`$md5`|SunMD5 is a hash based on the MD5 algorithm originally developed for Solaris|
+|`$1$`|md5crypt is a hash based on the MD5 algorithm originally developed for FreeBSD|
+
+#### Modern Linux Example
+
+Consider the following line from a modern Linux system’s `shadow` password file.
+
+Terminal
+
+```shell-session
+root@TryHackMe# sudo cat /etc/shadow | grep strategos
+strategos:$y$j9T$76UzfgEM5PnymhQ7TlJey1$/OOSg64dhfF.TigVPdzqiFang6uZA4QA1pzzegKdVm4:19965:0:99999:7:::
+```
+
+The fields are separated by colons. The important ones are the username and the hash algorithm, salt, and hash value. The second field has the format `$prefix$options$salt$hash`.
+
+In the example above, we have four parts separated by `$`:
+
+- `y` indicates the hash algorithm used, **yescrypt**
+- `j9T` is a parameter passed to the algorithm
+- `76UzfgEM5PnymhQ7TlJey1` is the salt used
+- `/OOSg64dhfF.TigVPdzqiFang6uZA4QA1pzzegKdVm4` is the hash value
+
+### MS Windows Passwords
+
+MS Windows passwords are hashed using NTLM, a variant of MD4. They’re visually identical to MD4 and MD5 hashes, so it’s very important to use context to determine the hash type.
+
+On MS Windows, password hashes are stored in the SAM (Security Accounts Manager). MS Windows tries to prevent normal users from dumping them, but tools like mimikatz exist to circumvent MS Windows security. Notably, the hashes found there are split into NT hashes and LM hashes.
+
+A great place to find more hash formats and password prefixes is the [Hashcat Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) page. For other hash types, you’ll typically need to check the length or encoding or even conduct some research into the application that generated them. Never underestimate the power of research.
+
+---
+### [Practice Questions]
+-> What is the hash size in yescrypt?
+![](content/cyber/cybersecurity-101/hashing/5-recognising-password-hashes/_img/pasted-image-20250808140814.png)
+
+-> What’s the Hash-Mode listed for Cisco-ASA MD5?
+![](content/cyber/cybersecurity-101/hashing/5-recognising-password-hashes/_img/pasted-image-20250808140924.png)
+
+-> What hashing algorithm is used in Cisco-IOS if it starts with `$9$`?
+![](content/cyber/cybersecurity-101/hashing/5-recognising-password-hashes/_img/pasted-image-20250808141021.png)

@@ -1,0 +1,14 @@
+![](content/cyber/cybersecurity-101/defensive-security-tooling/3-remnux/_img/pasted-image-20251215153310.png)
+
+Analysing potentially malicious software can be daunting, especially when this is part of an ongoing security incident. This analysis puts much pressure on the analyst. Most of the time, the results must be as accurate as possible, and analysts use different tools, machines, and environments to achieve this. In this room, we will use the REMnux VM.
+
+The REMnux VM is a specialised Linux distro. It already includes tools like Volatility, YARA, Wireshark, oledump, and INetSim. It also provides a sandbox-like environment for dissecting potentially malicious software without risking your primary system. It's your lab set up and ready to go without the hassle of manual installations.
+
+  
+
+### Learning Objectives
+
+- Explore the tools inside the REMnux VM
+- Learn how to use tools to analyse potentially malicious documents effectively
+- Learn how to simulate a fake network to aid in the analysis
+- Be familiar with the tools used to analyse memory images

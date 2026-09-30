@@ -1,0 +1,1 @@
+This room focuses on the offensive security tool Gobuster, often used for reconnaissance. We will explore how this tool can enumerate web directories, subdomains, and virtual hosts. This room will follow a hands-on approach where you can follow along with the commands explained and execute them yourself to see the results.

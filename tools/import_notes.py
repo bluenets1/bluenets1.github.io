@@ -48,6 +48,15 @@ SOURCES = [
     },
 ]
 
+# secrets to blank out in EVERY note (credentials don't belong on a public site)
+SECRET_RE = [
+    (re.compile(r"-----BEGIN [A-Z0-9 ]*PRIVATE KEY-----.*?-----END [A-Z0-9 ]*PRIVATE KEY-----", re.S), "[REDACTED PRIVATE KEY]"),
+    (re.compile(r"\b(?:AKIA|ASIA|AGPA|AIDA|AROA|AIPA|ANPA|ANVA|ASCA)[A-Z0-9]{16}\b"), "REDACTED_AWS_KEY_ID"),
+    (re.compile(r"(aws_secret_access_key\s*=\s*)\S+", re.I), r"\1REDACTED"),
+    (re.compile(r"(aws_access_key_id\s*=\s*)\S+", re.I), r"\1REDACTED_AWS_KEY_ID"),
+    (re.compile(r'("(?:SecretAccessKey|SessionToken)"\s*:\s*")[^"]*'), r"\1REDACTED"),
+]
+
 # flag formats to blank out when a source has redact=True
 FLAG_RE = [
     (re.compile(r"pwn\.college\{[^}\n]*\}"), "pwn.college{REDACTED}"),
@@ -135,6 +144,9 @@ def resolve_image(ref, src_md_dir):
 def transform(text, src_md_dir, dest_dir_fs, web_dir, redact=False):
     # strip YAML frontmatter
     text = re.sub(r"^﻿?---\n.*?\n---\n", "", text, count=1, flags=re.S)
+
+    for rx, repl in SECRET_RE:      # always strip credentials
+        text = rx.sub(repl, text)
 
     if redact:
         for rx, repl in FLAG_RE:

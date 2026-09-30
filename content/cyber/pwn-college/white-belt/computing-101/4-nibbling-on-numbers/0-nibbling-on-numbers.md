@@ -1,0 +1,1 @@
+A byte is eight bits; half of one (four bits) is a _nibble_. This module nibbles at numbers from the bit up: how a pile of bits comes to mean a positive or a negative number in binary, hexadecimal, and decimal. Understanding this is critical to truly knowing how the CPU processes bits into something more meaningful!

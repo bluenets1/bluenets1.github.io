@@ -1,0 +1,53 @@
+Variables
+
+Variables are containers that allow you to store data values in them. Like any other language, variables in JS are similar to containers to store data. When you store something in a bucket, you also need to label it so that it can be referenced later on easily. Similarly, in JS, each variable has a name; when we store a certain value in a variable, we assign a name to it to reference it later. ![image of var, let and const types](https://tryhackme-images.s3.amazonaws.com/user-uploads/62a7685ca6e7ce005d3f3afe/room-content/62a7685ca6e7ce005d3f3afe-1728814492671.png)There are three ways to declare variables in JS: `var`, `let`, and `const`. While `var` is function-scoped, both `let`, and `const` are block-scoped, offering better control over variable visibility within specific code blocks.
+
+Data Types
+
+In JS, data types define the type of value a variable can hold. Examples include `string` (text), `number`, `boolean` (true/false), null, undefined, and object (for more complex data like arrays or objects).
+
+Functions
+
+A function represents a block of code designed to perform a specific task. Inside a function, you group code that needs to perform a similar task. For example, you are developing a web application in which you need to print students' results on the web page. The ideal case would be to create a function `PrintResult(rollNum)` that would accept the roll number of the user as an argument.
+
+```javascript
+   <script>
+        function PrintResult(rollNum) {
+            alert("Username with roll number " + rollNum + " has passed the exam");
+            // any other logic to display the result
+        }
+
+        for (let i = 0; i < 100; i++) {
+            PrintResult(rollNumbers[i]);
+        }
+    </script>
+        
+```
+
+So, instead of writing the same print code for all the students, we will use a simple function to print the result.
+
+Loops
+
+Loops allow you to run a code block multiple times as long as a condition is `true`. Common loops in JS are `for`, `while,` and `do...while`, which are used to repeat tasks, like going through a list of items. For example, if we want to print the results of 100 students, we can call the PrintResult(rollNum) function 100 times by writing it 100 times, or we can create a loop that will be iterated through 1 to 100 and will call the PrintResult(rollNum) function as shown below.
+
+```javascript
+        // Function to print student result
+        function PrintResult(rollNum) {
+            alert("Username with roll number " + rollNum + " has passed the exam");
+            // any other logic to the display result
+        }
+
+        for (let i = 0; i < 100; i++) {
+            PrintResult(rollNumbers[i]); // this will be called 100 times 
+        }
+    
+```
+
+Request-Response Cycle
+
+In web development, the request-response cycle is when a user's browser (the client) sends a request to a web server, and the server responds with the requested information. This could be a webpage, data, or other resources. You can learn more about it [here](https://tryhackme.com/r/room/howwebsiteswork).
+
+---
+## [Practice Questions]
+=> What term allows you to run a code block multiple times as long as it is a condition?
+==> Loops

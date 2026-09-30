@@ -1,0 +1,3251 @@
+{
+ "name": "cybersecurity",
+ "dirs": [
+  {
+   "name": "Cybersecurity 101",
+   "slug": "cybersecurity-101",
+   "dirs": [
+    {
+     "name": "ACTIVE DIRECTORY",
+     "slug": "active-directory",
+     "dirs": [],
+     "notes": [
+      {
+       "name": "0. Introduction",
+       "slug": "0-introduction",
+       "file": "content/cyber/cybersecurity-101/active-directory/0-introduction.md",
+       "date": "2025-12-16"
+      },
+      {
+       "name": "1. Windows Domains",
+       "slug": "1-windows-domains",
+       "file": "content/cyber/cybersecurity-101/active-directory/1-windows-domains.md",
+       "date": "2025-12-16"
+      },
+      {
+       "name": "3. Active Directory",
+       "slug": "3-active-directory",
+       "file": "content/cyber/cybersecurity-101/active-directory/3-active-directory.md",
+       "date": "2025-12-16"
+      },
+      {
+       "name": "4. Managing Users in AD",
+       "slug": "4-managing-users-in-ad",
+       "file": "content/cyber/cybersecurity-101/active-directory/4-managing-users-in-ad.md",
+       "date": "2025-12-16"
+      },
+      {
+       "name": "5. Managing Computers in AD",
+       "slug": "5-managing-computers-in-ad",
+       "file": "content/cyber/cybersecurity-101/active-directory/5-managing-computers-in-ad.md",
+       "date": "2025-12-16"
+      },
+      {
+       "name": "6. Group Policies",
+       "slug": "6-group-policies",
+       "file": "content/cyber/cybersecurity-101/active-directory/6-group-policies.md",
+       "date": "2025-12-16"
+      },
+      {
+       "name": "7. Authentication Methods",
+       "slug": "7-authentication-methods",
+       "file": "content/cyber/cybersecurity-101/active-directory/7-authentication-methods.md",
+       "date": "2025-12-16"
+      },
+      {
+       "name": "8. Trees, Forests and Trusts",
+       "slug": "8-trees-forests-and-trusts",
+       "file": "content/cyber/cybersecurity-101/active-directory/8-trees-forests-and-trusts.md",
+       "date": "2025-12-16"
+      },
+      {
+       "name": "9. Conclusion",
+       "slug": "9-conclusion",
+       "file": "content/cyber/cybersecurity-101/active-directory/9-conclusion.md",
+       "date": "2025-12-16"
+      }
+     ]
+    },
+    {
+     "name": "Build Your Career in Cybersecurity",
+     "slug": "build-your-career-in-cybersecurity",
+     "dirs": [
+      {
+       "name": "1. Security Principles",
+       "slug": "1-security-principles",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/1-security-principles/1-introduction.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "2. CIA",
+         "slug": "2-cia",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/1-security-principles/2-cia.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "3. DAD",
+         "slug": "3-dad",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/1-security-principles/3-dad.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "4. Fundamental Concepts of Security Models",
+         "slug": "4-fundamental-concepts-of-security-models",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/1-security-principles/4-fundamental-concepts-of-security-models.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "5. Defence-in-Depth",
+         "slug": "5-defence-in-depth",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/1-security-principles/5-defence-in-depth.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "6. ISO-IEC 19249",
+         "slug": "6-iso-iec-19249",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/1-security-principles/6-iso-iec-19249.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "7. Zero Trust versus Trust but Verify",
+         "slug": "7-zero-trust-versus-trust-but-verify",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/1-security-principles/7-zero-trust-versus-trust-but-verify.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "8. Threat Versus Risk",
+         "slug": "8-threat-versus-risk",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/1-security-principles/8-threat-versus-risk.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "9. Conclusion",
+         "slug": "9-conclusion",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/1-security-principles/9-conclusion.md",
+         "date": "2025-12-16"
+        }
+       ]
+      },
+      {
+       "name": "2. Training Impact on Teams",
+       "slug": "2-training-impact-on-teams",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Understanding the Impact of Cyber Security Training",
+         "slug": "1-understanding-the-impact-of-cyber-security-training",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/2-training-impact-on-teams/1-understanding-the-impact-of-cyber-security-training.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "2. Cyber Security Training for Large Organisations",
+         "slug": "2-cyber-security-training-for-large-organisations",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/2-training-impact-on-teams/2-cyber-security-training-for-large-organisations.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "3. Write a Cyber Security Training Investment Proposal",
+         "slug": "3-write-a-cyber-security-training-investment-proposal",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/2-training-impact-on-teams/3-write-a-cyber-security-training-investment-proposal.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "4. Vendor Selection",
+         "slug": "4-vendor-selection",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/2-training-impact-on-teams/4-vendor-selection.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "5. Conclusion",
+         "slug": "5-conclusion",
+         "file": "content/cyber/cybersecurity-101/build-your-career-in-cybersecurity/2-training-impact-on-teams/5-conclusion.md",
+         "date": "2025-12-16"
+        }
+       ]
+      }
+     ],
+     "notes": []
+    },
+    {
+     "name": "Cryptography",
+     "slug": "cryptography",
+     "dirs": [],
+     "notes": [
+      {
+       "name": "1. Intro",
+       "slug": "1-intro",
+       "file": "content/cyber/cybersecurity-101/cryptography/1-intro/introduction-to-cryptography.md",
+       "date": "2025-08-06"
+      },
+      {
+       "name": "2. Plaintext to CipherText",
+       "slug": "2-plaintext-to-ciphertext",
+       "file": "content/cyber/cybersecurity-101/cryptography/2-plaintext-to-ciphertext/plaintext-to-ciphertext.md",
+       "date": "2025-08-06"
+      },
+      {
+       "name": "3. Historical Ciphers",
+       "slug": "3-historical-ciphers",
+       "file": "content/cyber/cybersecurity-101/cryptography/3-historical-ciphers/historical-ciphers.md",
+       "date": "2025-08-06"
+      },
+      {
+       "name": "4. Types of Encryption",
+       "slug": "4-types-of-encryption",
+       "file": "content/cyber/cybersecurity-101/cryptography/4-types-of-encryption/types-of-encryption.md",
+       "date": "2025-11-16"
+      },
+      {
+       "name": "5. Basic Maths",
+       "slug": "5-basic-maths",
+       "file": "content/cyber/cybersecurity-101/cryptography/5-basic-maths/basic-maths.md",
+       "date": "2025-08-07"
+      },
+      {
+       "name": "6. PGP Intro",
+       "slug": "6-pgp-intro",
+       "file": "content/cyber/cybersecurity-101/cryptography/6-pgp-intro/pgp-intro.md",
+       "date": "2025-08-07"
+      },
+      {
+       "name": "7. Use of Asymmetric Encryption",
+       "slug": "7-use-of-asymmetric-encryption",
+       "file": "content/cyber/cybersecurity-101/cryptography/7-use-of-asymmetric-encryption/use-of-asymmetric-encryption.md",
+       "date": "2025-08-07"
+      },
+      {
+       "name": "8. RSA",
+       "slug": "8-rsa",
+       "file": "content/cyber/cybersecurity-101/cryptography/8-rsa/rsa.md",
+       "date": "2025-08-07"
+      },
+      {
+       "name": "9. Diffie Helman Key Xchange",
+       "slug": "9-diffie-helman-key-xchange",
+       "file": "content/cyber/cybersecurity-101/cryptography/9-diffie-helman-key-xchange/diffie-hellman-key-exchange.md",
+       "date": "2025-08-07"
+      },
+      {
+       "name": "10. SSH",
+       "slug": "10-ssh",
+       "file": "content/cyber/cybersecurity-101/cryptography/10-ssh/ssh.md",
+       "date": "2025-08-07"
+      },
+      {
+       "name": "11. Digital Signatures and Certificates",
+       "slug": "11-digital-signatures-and-certificates",
+       "file": "content/cyber/cybersecurity-101/cryptography/11-digital-signatures-and-certificates/digital-signatures-and-certificates.md",
+       "date": "2025-08-07"
+      },
+      {
+       "name": "12. PGP & GPG",
+       "slug": "12-pgp-gpg",
+       "file": "content/cyber/cybersecurity-101/cryptography/12-pgp-gpg/pgp-gpg.md",
+       "date": "2025-08-07"
+      }
+     ]
+    },
+    {
+     "name": "Defensive Security Tooling",
+     "slug": "defensive-security-tooling",
+     "dirs": [
+      {
+       "name": "1. Cyberchef - The Basics",
+       "slug": "1-cyberchef-the-basics",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/1-cyberchef-the-basics/1-introduction.md",
+         "date": "2025-12-13"
+        },
+        {
+         "name": "2. Accessing the Tool",
+         "slug": "2-accessing-the-tool",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/1-cyberchef-the-basics/2-accessing-the-tool.md",
+         "date": "2025-12-13"
+        },
+        {
+         "name": "3. Navigating the Interface",
+         "slug": "3-navigating-the-interface",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/1-cyberchef-the-basics/3-navigating-the-interface.md",
+         "date": "2025-12-13"
+        },
+        {
+         "name": "4. Before Anything Else",
+         "slug": "4-before-anything-else",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/1-cyberchef-the-basics/4-before-anything-else.md",
+         "date": "2025-12-13"
+        },
+        {
+         "name": "5. Practice, Practice , Practice",
+         "slug": "5-practice-practice-practice",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/1-cyberchef-the-basics/5-practice-practice-practice.md",
+         "date": "2025-12-13"
+        },
+        {
+         "name": "6. Your First Official Cook",
+         "slug": "6-your-first-official-cook",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/1-cyberchef-the-basics/6-your-first-official-cook.md",
+         "date": "2025-12-13"
+        }
+       ]
+      },
+      {
+       "name": "2. CAPA - The Basics",
+       "slug": "2-capa-the-basics",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/2-capa-the-basics/1-introduction.md",
+         "date": "2025-12-14"
+        },
+        {
+         "name": "2. Tool Overview - How Capa Works?",
+         "slug": "2-tool-overview-how-capa-works",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/2-capa-the-basics/2-tool-overview-how-capa-works.md",
+         "date": "2025-12-14"
+        },
+        {
+         "name": "3. Dissecting CAPA Results Part 1- General Information, MITRE and MAEC",
+         "slug": "3-dissecting-capa-results-part-1-general-information-mitre-and-maec",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/2-capa-the-basics/3-dissecting-capa-results-part-1-general-information-mitre-and-maec.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "4. Dissecting CAPA Results Part 2- Malware Behavior Catalogue",
+         "slug": "4-dissecting-capa-results-part-2-malware-behavior-catalogue",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/2-capa-the-basics/4-dissecting-capa-results-part-2-malware-behavior-catalogue.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "5 - Dissecting CAPA Results Part 3 -- Namespaces",
+         "slug": "5-dissecting-capa-results-part-3-namespaces",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/2-capa-the-basics/5-dissecting-capa-results-part-3-namespaces.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "6. Dissecting CAPA Results Part 4- Capability",
+         "slug": "6-dissecting-capa-results-part-4-capability",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/2-capa-the-basics/6-dissecting-capa-results-part-4-capability.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "7. More Knowledge, More Fun!!!",
+         "slug": "7-more-knowledge-more-fun",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/2-capa-the-basics/7-more-knowledge-more-fun.md",
+         "date": "2025-12-15"
+        }
+       ]
+      },
+      {
+       "name": "3. REMnux",
+       "slug": "3-remnux",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/3-remnux/1-introduction.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "2. Machine Access",
+         "slug": "2-machine-access",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/3-remnux/2-machine-access.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "3. File Analysis",
+         "slug": "3-file-analysis",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/3-remnux/3-file-analysis.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "4. Fake Network to Aid Analysis",
+         "slug": "4-fake-network-to-aid-analysis",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/3-remnux/4-fake-network-to-aid-analysis.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "5. Memory Investigation - Evidence Preprocessing",
+         "slug": "5-memory-investigation-evidence-preprocessing",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/3-remnux/5-memory-investigation-evidence-preprocessing.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "6. Conclusion",
+         "slug": "6-conclusion",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/3-remnux/6-conclusion.md",
+         "date": "2025-12-15"
+        }
+       ]
+      },
+      {
+       "name": "4. Flare VM",
+       "slug": "4-flare-vm",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/4-flare-vm/1-introduction.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "2. Arsenal of Tools",
+         "slug": "2-arsenal-of-tools",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/4-flare-vm/2-arsenal-of-tools.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "3. Commonly Used Tools for Investigation",
+         "slug": "3-commonly-used-tools-for-investigation",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/4-flare-vm/3-commonly-used-tools-for-investigation.md",
+         "date": "2025-12-15"
+        },
+        {
+         "name": "4. Analysing Malicious Files",
+         "slug": "4-analysing-malicious-files",
+         "file": "content/cyber/cybersecurity-101/defensive-security-tooling/4-flare-vm/4-analysing-malicious-files.md",
+         "date": "2025-12-15"
+        }
+       ]
+      }
+     ],
+     "notes": []
+    },
+    {
+     "name": "Exploitation Basics",
+     "slug": "exploitation-basics",
+     "dirs": [
+      {
+       "name": "1. Moniker Link (CVE-2024-21413)",
+       "slug": "1-moniker-link-cve-2024-21413",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/1-moniker-link-cve-2024-21413/1-introduction/introduction.md",
+         "date": "2025-08-08"
+        },
+        {
+         "name": "2. Moniker Link (CVE-2024-21413)",
+         "slug": "2-moniker-link-cve-2024-21413",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/1-moniker-link-cve-2024-21413/2-moniker-link-cve-2024-21413/moniker-link-cve-2024-21413.md",
+         "date": "2025-08-08"
+        },
+        {
+         "name": "3. Exploitation",
+         "slug": "3-exploitation",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/1-moniker-link-cve-2024-21413/3-exploitation/exploitation.md",
+         "date": "2025-08-09"
+        },
+        {
+         "name": "4. Detection",
+         "slug": "4-detection",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/1-moniker-link-cve-2024-21413/4-detection/detection-using-yara-rules.md",
+         "date": "2025-08-09"
+        },
+        {
+         "name": "5. Remediation",
+         "slug": "5-remediation",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/1-moniker-link-cve-2024-21413/5-remediation/remediation.md",
+         "date": "2025-08-09"
+        }
+       ]
+      },
+      {
+       "name": "2. Metasploit - Basics",
+       "slug": "2-metasploit-basics",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "0. Msf Intro",
+         "slug": "0-msf-intro",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/0-msf-intro/metasploit-introduction.md",
+         "date": "2025-08-09"
+        },
+        {
+         "name": "1. Main Comps of Metasploit",
+         "slug": "1-main-comps-of-metasploit",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/1-main-comps-of-metasploit/main-component-of-metasploit.md",
+         "date": "2025-08-09"
+        },
+        {
+         "name": "2. msfconsole",
+         "slug": "2-msfconsole",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/2-msfconsole/metasploit-framework-console.md",
+         "date": "2025-08-09"
+        },
+        {
+         "name": "3. Working with modules",
+         "slug": "3-working-with-modules",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/3-working-with-modules/working-with-modules.md",
+         "date": "2025-08-10"
+        },
+        {
+         "name": "4. Scanning",
+         "slug": "4-scanning",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/4-scanning/scanning.md",
+         "date": "2025-08-11"
+        },
+        {
+         "name": "5. The Metasploit Database",
+         "slug": "5-the-metasploit-database",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/5-the-metasploit-database/the-metasploit-database.md",
+         "date": "2025-08-11"
+        },
+        {
+         "name": "6. Vulnerability Scanning",
+         "slug": "6-vulnerability-scanning",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/6-vulnerability-scanning/vulnerability-scanning.md",
+         "date": "2025-08-11"
+        },
+        {
+         "name": "7. Exploitation",
+         "slug": "7-exploitation",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/7-exploitation/exploitation.md",
+         "date": "2025-08-11"
+        },
+        {
+         "name": "8. msfvenom",
+         "slug": "8-msfvenom",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/8-msfvenom/msfvenom.md",
+         "date": "2025-08-12"
+        },
+        {
+         "name": "9. meterepret",
+         "slug": "9-meterepret",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/9-meterepret/meterpreter.md",
+         "date": "2025-08-12"
+        },
+        {
+         "name": "10. meterpreter flavours",
+         "slug": "10-meterpreter-flavours",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/10-meterpreter-flavours/meterpreter-flavours.md",
+         "date": "2025-08-12"
+        },
+        {
+         "name": "11. Post Exploitation with Meterpreter",
+         "slug": "11-post-exploitation-with-meterpreter",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/11-post-exploitation-with-meterpreter/post-exploitation-with-meterepreter.md",
+         "date": "2025-08-12"
+        },
+        {
+         "name": "12. PE Challenge",
+         "slug": "12-pe-challenge",
+         "file": "content/cyber/cybersecurity-101/exploitation-basics/2-metasploit-basics/12-pe-challenge/post-exploitation-challenge.md",
+         "date": "2025-08-12"
+        }
+       ]
+      }
+     ],
+     "notes": []
+    },
+    {
+     "name": "Hacking Tools",
+     "slug": "hacking-tools",
+     "dirs": [
+      {
+       "name": "4. John The Ripper",
+       "slug": "4-john-the-ripper",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Basic Terms",
+         "slug": "1-basic-terms",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/4-john-the-ripper/1-basic-terms/basic-terms.md",
+         "date": "2025-08-08"
+        },
+        {
+         "name": "2. Setting up the system",
+         "slug": "2-setting-up-the-system",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/4-john-the-ripper/2-setting-up-the-system/setting-up-your-system.md",
+         "date": "2025-08-08"
+        },
+        {
+         "name": "3. Cracking Basic Hashes",
+         "slug": "3-cracking-basic-hashes",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/4-john-the-ripper/3-cracking-basic-hashes/cracking-basic-hashes.md",
+         "date": "2025-08-08"
+        },
+        {
+         "name": "4. Cracking Windows Authentication Hashes",
+         "slug": "4-cracking-windows-authentication-hashes",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/4-john-the-ripper/4-cracking-windows-authentication-hashes/windows-authentication-hashes.md",
+         "date": "2025-08-08"
+        },
+        {
+         "name": "5. Cracking etc-shadow Hashes",
+         "slug": "5-cracking-etc-shadow-hashes",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/4-john-the-ripper/5-cracking-etc-shadow-hashes/cracking-etc-shadow-hashes.md",
+         "date": "2025-08-08"
+        },
+        {
+         "name": "6. Single Crack Mode",
+         "slug": "6-single-crack-mode",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/4-john-the-ripper/6-single-crack-mode/single-crack-mode.md",
+         "date": "2025-08-08"
+        },
+        {
+         "name": "7. Custom Rules",
+         "slug": "7-custom-rules",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/4-john-the-ripper/7-custom-rules/custom-rules.md",
+         "date": "2025-08-08"
+        },
+        {
+         "name": "8. Cracking Password Protected Zip Files",
+         "slug": "8-cracking-password-protected-zip-files",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/4-john-the-ripper/8-cracking-password-protected-zip-files/cracking-password-protected-zip-files.md",
+         "date": "2025-08-08"
+        },
+        {
+         "name": "9. Cracking a Password-Protected RAR Archive",
+         "slug": "9-cracking-a-password-protected-rar-archive",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/4-john-the-ripper/9-cracking-a-password-protected-rar-archive/cracking-a-password-protected-rar-archive.md",
+         "date": "2025-08-08"
+        },
+        {
+         "name": "10. SSH-Cracking",
+         "slug": "10-ssh-cracking",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/4-john-the-ripper/10-ssh-cracking/cracking-ssh-key-passwords.md",
+         "date": "2025-08-08"
+        }
+       ]
+      },
+      {
+       "name": "5. Burpsuite",
+       "slug": "5-burpsuite",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/1-introduction.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "2. What is Burpsuite_",
+         "slug": "2-what-is-burpsuite",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/2-what-is-burpsuite.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "3. Features of Burp Community",
+         "slug": "3-features-of-burp-community",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/3-features-of-burp-community.md",
+         "date": "2025-08-17"
+        },
+        {
+         "name": "4. Dashboard",
+         "slug": "4-dashboard",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/4-dashboard.md",
+         "date": "2025-08-17"
+        },
+        {
+         "name": "5. Navigation",
+         "slug": "5-navigation",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/5-navigation.md",
+         "date": "2025-08-17"
+        },
+        {
+         "name": "6. Options",
+         "slug": "6-options",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/6-options.md",
+         "date": "2025-08-17"
+        },
+        {
+         "name": "7. Intro to Burp Proxy",
+         "slug": "7-intro-to-burp-proxy",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/7-intro-to-burp-proxy.md",
+         "date": "2025-08-17"
+        },
+        {
+         "name": "8. Connecting through the Proxy (FoxyProxy)",
+         "slug": "8-connecting-through-the-proxy-foxyproxy",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/8-connecting-through-the-proxy-foxyproxy.md",
+         "date": "2025-08-17"
+        },
+        {
+         "name": "9. Sitemap and Issue Definitions",
+         "slug": "9-sitemap-and-issue-definitions",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/9-sitemap-and-issue-definitions.md",
+         "date": "2025-08-17"
+        },
+        {
+         "name": "10. Burpsuite Browser",
+         "slug": "10-burpsuite-browser",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/10-burpsuite-browser.md",
+         "date": "2025-08-17"
+        },
+        {
+         "name": "11. Scoping & Targeting",
+         "slug": "11-scoping-targeting",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/11-scoping-targeting.md",
+         "date": "2025-08-17"
+        },
+        {
+         "name": "12 . Proxying HTTPS",
+         "slug": "12-proxying-https",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/12-proxying-https.md",
+         "date": "2025-08-17"
+        },
+        {
+         "name": "13. Example Attack",
+         "slug": "13-example-attack",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/5-burpsuite/13-example-attack.md",
+         "date": "2025-08-17"
+        }
+       ]
+      },
+      {
+       "name": "6. Hydra",
+       "slug": "6-hydra",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction To Hydra",
+         "slug": "1-introduction-to-hydra",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/6-hydra/1-introduction-to-hydra.md",
+         "date": "2025-08-23"
+        },
+        {
+         "name": "2. Using Hydra",
+         "slug": "2-using-hydra",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/6-hydra/2-using-hydra.md",
+         "date": "2025-08-23"
+        }
+       ]
+      },
+      {
+       "name": "7. GoBuster - The Basics",
+       "slug": "7-gobuster-the-basics",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/7-gobuster-the-basics/1-introduction.md",
+         "date": "2025-08-24"
+        },
+        {
+         "name": "2. Environment  and Setup",
+         "slug": "2-environment-and-setup",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/7-gobuster-the-basics/2-environment-and-setup.md",
+         "date": "2025-08-24"
+        },
+        {
+         "name": "3. Gobuster - Introduction",
+         "slug": "3-gobuster-introduction",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/7-gobuster-the-basics/3-gobuster-introduction.md",
+         "date": "2025-08-24"
+        },
+        {
+         "name": "4. Use Case - Directory and File Enumeration",
+         "slug": "4-use-case-directory-and-file-enumeration",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/7-gobuster-the-basics/4-use-case-directory-and-file-enumeration.md",
+         "date": "2025-08-24"
+        },
+        {
+         "name": "5. Use Case - Subdomain Enumeration",
+         "slug": "5-use-case-subdomain-enumeration",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/7-gobuster-the-basics/5-use-case-subdomain-enumeration.md",
+         "date": "2025-08-24"
+        },
+        {
+         "name": "6. Use Case - Virtual Host Enurmeration",
+         "slug": "6-use-case-virtual-host-enurmeration",
+         "file": "content/cyber/cybersecurity-101/hacking-tools/7-gobuster-the-basics/6-use-case-virtual-host-enurmeration.md",
+         "date": "2025-08-24"
+        }
+       ]
+      }
+     ],
+     "notes": [
+      {
+       "name": "1. Wireshark",
+       "slug": "1-wireshark",
+       "file": "content/cyber/cybersecurity-101/hacking-tools/1-wireshark/wireshark.md",
+       "date": "2025-08-10"
+      },
+      {
+       "name": "2. Tcpdump",
+       "slug": "2-tcpdump",
+       "file": "content/cyber/cybersecurity-101/hacking-tools/2-tcpdump/tcpdump.md",
+       "date": "2025-08-05"
+      },
+      {
+       "name": "3. Nmap",
+       "slug": "3-nmap",
+       "file": "content/cyber/cybersecurity-101/hacking-tools/3-nmap/nmap-network-port-scanner-tool.md",
+       "date": "2025-08-06"
+      }
+     ]
+    },
+    {
+     "name": "Hashing",
+     "slug": "hashing",
+     "dirs": [],
+     "notes": [
+      {
+       "name": "1. Introduction",
+       "slug": "1-introduction",
+       "file": "content/cyber/cybersecurity-101/hashing/1-introduction/introduction.md",
+       "date": "2025-08-08"
+      },
+      {
+       "name": "2. Hash Functions",
+       "slug": "2-hash-functions",
+       "file": "content/cyber/cybersecurity-101/hashing/2-hash-functions/hash-functions.md",
+       "date": "2025-08-08"
+      },
+      {
+       "name": "3. Insecure Password Storage for Authentication",
+       "slug": "3-insecure-password-storage-for-authentication",
+       "file": "content/cyber/cybersecurity-101/hashing/3-insecure-password-storage-for-authentication/insecure-password-storage-for-authentication.md",
+       "date": "2025-08-08"
+      },
+      {
+       "name": "4. Using Hashing for Secure Password Storage",
+       "slug": "4-using-hashing-for-secure-password-storage",
+       "file": "content/cyber/cybersecurity-101/hashing/4-using-hashing-for-secure-password-storage/using-hashing-for-secure-password-storage.md",
+       "date": "2025-08-08"
+      },
+      {
+       "name": "5. Recognising Password Hashes",
+       "slug": "5-recognising-password-hashes",
+       "file": "content/cyber/cybersecurity-101/hashing/5-recognising-password-hashes/recognising-password-hashes.md",
+       "date": "2025-08-08"
+      },
+      {
+       "name": "6. Password Cracking",
+       "slug": "6-password-cracking",
+       "file": "content/cyber/cybersecurity-101/hashing/6-password-cracking/password-cracking.md",
+       "date": "2025-08-08"
+      },
+      {
+       "name": "7. Hashing for Integrity Checking",
+       "slug": "7-hashing-for-integrity-checking",
+       "file": "content/cyber/cybersecurity-101/hashing/7-hashing-for-integrity-checking/hashing-for-integrity-checking.md",
+       "date": "2025-08-08"
+      },
+      {
+       "name": "8. Encoding",
+       "slug": "8-encoding",
+       "file": "content/cyber/cybersecurity-101/hashing/8-encoding/encoding.md",
+       "date": "2025-08-08"
+      }
+     ]
+    },
+    {
+     "name": "Networking",
+     "slug": "networking",
+     "dirs": [],
+     "notes": [
+      {
+       "name": "1. LAN",
+       "slug": "1-lan",
+       "file": "content/cyber/cybersecurity-101/networking/1-lan/introduction-to-lan.md",
+       "date": "2025-07-31"
+      },
+      {
+       "name": "2. OSI Model",
+       "slug": "2-osi-model",
+       "file": "content/cyber/cybersecurity-101/networking/2-osi-model/osi-model.md",
+       "date": "2025-08-03"
+      },
+      {
+       "name": "3. Packet Frames",
+       "slug": "3-packet-frames",
+       "file": "content/cyber/cybersecurity-101/networking/3-packet-frames/packet-frames.md",
+       "date": "2025-08-01"
+      },
+      {
+       "name": "4. Extending Network",
+       "slug": "4-extending-network",
+       "file": "content/cyber/cybersecurity-101/networking/4-extending-network/extending-network.md",
+       "date": "2025-08-01"
+      },
+      {
+       "name": "5. DNS in Detail",
+       "slug": "5-dns-in-detail",
+       "file": "content/cyber/cybersecurity-101/networking/5-dns-in-detail/dns-in-detail.md",
+       "date": "2025-08-01"
+      },
+      {
+       "name": "6. Misc Information",
+       "slug": "6-misc-information",
+       "file": "content/cyber/cybersecurity-101/networking/6-misc-information/misc-information.md",
+       "date": "2025-08-02"
+      },
+      {
+       "name": "7. TCP-IP Model",
+       "slug": "7-tcp-ip-model",
+       "file": "content/cyber/cybersecurity-101/networking/7-tcp-ip-model/tcp-ip-model.md",
+       "date": "2025-11-02"
+      },
+      {
+       "name": "8. Encapsulation",
+       "slug": "8-encapsulation",
+       "file": "content/cyber/cybersecurity-101/networking/8-encapsulation/encapsulation.md",
+       "date": "2025-08-03"
+      },
+      {
+       "name": "9. Telnet",
+       "slug": "9-telnet",
+       "file": "content/cyber/cybersecurity-101/networking/9-telnet/telnet.md",
+       "date": "2025-08-03"
+      },
+      {
+       "name": "11. ARP",
+       "slug": "11-arp",
+       "file": "content/cyber/cybersecurity-101/networking/11-arp/arp-bridging-layer-3-addressing-to-layer-2-addressing.md",
+       "date": "2025-08-04"
+      },
+      {
+       "name": "12. ICMP",
+       "slug": "12-icmp",
+       "file": "content/cyber/cybersecurity-101/networking/12-icmp/icmp-troubleshooting-networks.md",
+       "date": "2025-08-04"
+      },
+      {
+       "name": "13. Routing",
+       "slug": "13-routing",
+       "file": "content/cyber/cybersecurity-101/networking/13-routing/routing.md",
+       "date": "2025-08-04"
+      },
+      {
+       "name": "14. NAT",
+       "slug": "14-nat",
+       "file": "content/cyber/cybersecurity-101/networking/14-nat/nat.md",
+       "date": "2025-08-04"
+      },
+      {
+       "name": "15. WHO-IS",
+       "slug": "15-who-is",
+       "file": "content/cyber/cybersecurity-101/networking/15-who-is/who-is.md",
+       "date": "2025-08-04"
+      },
+      {
+       "name": "16. HTTP",
+       "slug": "16-http",
+       "file": "content/cyber/cybersecurity-101/networking/16-http/http-accessing-the-web.md",
+       "date": "2025-08-05"
+      },
+      {
+       "name": "17. FTP",
+       "slug": "17-ftp",
+       "file": "content/cyber/cybersecurity-101/networking/17-ftp/ftp-transferring-files.md",
+       "date": "2025-08-04"
+      },
+      {
+       "name": "18. SMTP",
+       "slug": "18-smtp",
+       "file": "content/cyber/cybersecurity-101/networking/18-smtp/smtp-sending-emails.md",
+       "date": "2025-08-04"
+      },
+      {
+       "name": "19. POP3",
+       "slug": "19-pop3",
+       "file": "content/cyber/cybersecurity-101/networking/19-pop3/pop3-receiving-email.md",
+       "date": "2025-08-04"
+      },
+      {
+       "name": "20 . IMAP",
+       "slug": "20-imap",
+       "file": "content/cyber/cybersecurity-101/networking/20-imap/imap-synchronizing-email.md",
+       "date": "2025-08-04"
+      },
+      {
+       "name": "21. TLS",
+       "slug": "21-tls",
+       "file": "content/cyber/cybersecurity-101/networking/21-tls/tls.md",
+       "date": "2025-08-07"
+      },
+      {
+       "name": "22. MISC",
+       "slug": "22-misc",
+       "file": "content/cyber/cybersecurity-101/networking/22-misc/misc.md",
+       "date": "2025-08-05"
+      },
+      {
+       "name": "23. SSH",
+       "slug": "23-ssh",
+       "file": "content/cyber/cybersecurity-101/networking/23-ssh/ssh-secure-shell.md",
+       "date": "2025-08-05"
+      },
+      {
+       "name": "24. SFTP & FTPS",
+       "slug": "24-sftp-ftps",
+       "file": "content/cyber/cybersecurity-101/networking/24-sftp-ftps/sftp-ftps.md",
+       "date": "2025-08-05"
+      },
+      {
+       "name": "25. VPN",
+       "slug": "25-vpn",
+       "file": "content/cyber/cybersecurity-101/networking/25-vpn/vpn-virtual-private-network.md",
+       "date": "2025-08-05"
+      }
+     ]
+    },
+    {
+     "name": "OWASP TOP 10 - 2025",
+     "slug": "owasp-top-10-2025",
+     "dirs": [
+      {
+       "name": "1. IAAA Failures",
+       "slug": "1-iaaa-failures",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/1-iaaa-failures/1-introduction.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "2. What is IAAA?",
+         "slug": "2-what-is-iaaa",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/1-iaaa-failures/2-what-is-iaaa.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "3. A01 - Broken Access Control",
+         "slug": "3-a01-broken-access-control",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/1-iaaa-failures/3-a01-broken-access-control.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "4. A07 -  Authentication Failures",
+         "slug": "4-a07-authentication-failures",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/1-iaaa-failures/4-a07-authentication-failures.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "5. A09 - Logging & Alerting Failures",
+         "slug": "5-a09-logging-alerting-failures",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/1-iaaa-failures/5-a09-logging-alerting-failures.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "6. Conclusion",
+         "slug": "6-conclusion",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/1-iaaa-failures/6-conclusion.md",
+         "date": "2025-12-16"
+        }
+       ]
+      },
+      {
+       "name": "2. Application Design Flaws",
+       "slug": "2-application-design-flaws",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/2-application-design-flaws/1-introduction.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "2. AS02 - Security Misconfigurations",
+         "slug": "2-as02-security-misconfigurations",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/2-application-design-flaws/2-as02-security-misconfigurations.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "3. AS03 - Software Supply Chain Failures",
+         "slug": "3-as03-software-supply-chain-failures",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/2-application-design-flaws/3-as03-software-supply-chain-failures.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "4. AS04 - Cryptographic Failures",
+         "slug": "4-as04-cryptographic-failures",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/2-application-design-flaws/4-as04-cryptographic-failures.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "5. AS06 - Insecure Design",
+         "slug": "5-as06-insecure-design",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/2-application-design-flaws/5-as06-insecure-design.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "6. Conclusion",
+         "slug": "6-conclusion",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/2-application-design-flaws/6-conclusion.md",
+         "date": "2025-12-16"
+        }
+       ]
+      },
+      {
+       "name": "3. Insecure Data Handling",
+       "slug": "3-insecure-data-handling",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/3-insecure-data-handling/1-introduction.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "2. A04 - Cryptographic Failures",
+         "slug": "2-a04-cryptographic-failures",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/3-insecure-data-handling/2-a04-cryptographic-failures.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "3. A05 - Injection",
+         "slug": "3-a05-injection",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/3-insecure-data-handling/3-a05-injection.md",
+         "date": "2025-12-16"
+        },
+        {
+         "name": "4. A08 - Software or Data Integrity Failures",
+         "slug": "4-a08-software-or-data-integrity-failures",
+         "file": "content/cyber/cybersecurity-101/owasp-top-10-2025/3-insecure-data-handling/4-a08-software-or-data-integrity-failures.md",
+         "date": "2025-12-16"
+        }
+       ]
+      }
+     ],
+     "notes": []
+    },
+    {
+     "name": "OWASP Top-10",
+     "slug": "owasp-top-10",
+     "dirs": [],
+     "notes": [
+      {
+       "name": "1. Introduction",
+       "slug": "1-introduction",
+       "file": "content/cyber/cybersecurity-101/owasp-top-10/1-introduction.md",
+       "date": "2025-08-19"
+      },
+      {
+       "name": "2. Broken Access Controls",
+       "slug": "2-broken-access-controls",
+       "file": "content/cyber/cybersecurity-101/owasp-top-10/2-broken-access-controls.md",
+       "date": "2025-08-19"
+      },
+      {
+       "name": "3. Cryptographic Failures",
+       "slug": "3-cryptographic-failures",
+       "file": "content/cyber/cybersecurity-101/owasp-top-10/3-cryptographic-failures.md",
+       "date": "2025-08-19"
+      },
+      {
+       "name": "4. Injections",
+       "slug": "4-injections",
+       "file": "content/cyber/cybersecurity-101/owasp-top-10/4-injections.md",
+       "date": "2025-08-19"
+      },
+      {
+       "name": "5. Insecure Design",
+       "slug": "5-insecure-design",
+       "file": "content/cyber/cybersecurity-101/owasp-top-10/5-insecure-design.md",
+       "date": "2025-08-20"
+      },
+      {
+       "name": "6. Security Misconfiguration",
+       "slug": "6-security-misconfiguration",
+       "file": "content/cyber/cybersecurity-101/owasp-top-10/6-security-misconfiguration.md",
+       "date": "2025-08-20"
+      },
+      {
+       "name": "7. Vulnerable and Outdated Components",
+       "slug": "7-vulnerable-and-outdated-components",
+       "file": "content/cyber/cybersecurity-101/owasp-top-10/7-vulnerable-and-outdated-components.md",
+       "date": "2025-08-21"
+      },
+      {
+       "name": "8. Identification and Authentication Failures",
+       "slug": "8-identification-and-authentication-failures",
+       "file": "content/cyber/cybersecurity-101/owasp-top-10/8-identification-and-authentication-failures.md",
+       "date": "2025-08-21"
+      },
+      {
+       "name": "9.  Software and Data Integrity Failures",
+       "slug": "9-software-and-data-integrity-failures",
+       "file": "content/cyber/cybersecurity-101/owasp-top-10/9-software-and-data-integrity-failures.md",
+       "date": "2025-08-21"
+      },
+      {
+       "name": "10 . Security Logging and Monitoring Failures",
+       "slug": "10-security-logging-and-monitoring-failures",
+       "file": "content/cyber/cybersecurity-101/owasp-top-10/10-security-logging-and-monitoring-failures.md",
+       "date": "2025-08-21"
+      },
+      {
+       "name": "11 . Server-Side Request Forgery (SSRF)",
+       "slug": "11-server-side-request-forgery-ssrf",
+       "file": "content/cyber/cybersecurity-101/owasp-top-10/11-server-side-request-forgery-ssrf.md",
+       "date": "2025-08-21"
+      }
+     ]
+    },
+    {
+     "name": "Security Solutions",
+     "slug": "security-solutions",
+     "dirs": [
+      {
+       "name": "1. SIEM - Intro",
+       "slug": "1-siem-intro",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/security-solutions/1-siem-intro/1-introduction.md",
+         "date": "2025-12-03"
+        },
+        {
+         "name": "2. Logs Everywhere, Answer Nowhere",
+         "slug": "2-logs-everywhere-answer-nowhere",
+         "file": "content/cyber/cybersecurity-101/security-solutions/1-siem-intro/2-logs-everywhere-answer-nowhere.md",
+         "date": "2025-12-03"
+        },
+        {
+         "name": "3. Why SIEM?",
+         "slug": "3-why-siem",
+         "file": "content/cyber/cybersecurity-101/security-solutions/1-siem-intro/3-why-siem.md",
+         "date": "2025-12-03"
+        },
+        {
+         "name": "4. Log Sources and Ingestion",
+         "slug": "4-log-sources-and-ingestion",
+         "file": "content/cyber/cybersecurity-101/security-solutions/1-siem-intro/4-log-sources-and-ingestion.md",
+         "date": "2025-12-03"
+        },
+        {
+         "name": "5. Alert Process and Analysis",
+         "slug": "5-alert-process-and-analysis",
+         "file": "content/cyber/cybersecurity-101/security-solutions/1-siem-intro/5-alert-process-and-analysis.md",
+         "date": "2025-12-03"
+        },
+        {
+         "name": "6. Lab Work",
+         "slug": "6-lab-work",
+         "file": "content/cyber/cybersecurity-101/security-solutions/1-siem-intro/6-lab-work.md",
+         "date": "2025-12-03"
+        }
+       ]
+      },
+      {
+       "name": "2. Firewall Fundamentals",
+       "slug": "2-firewall-fundamentals",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. What's the purpose of firewall?",
+         "slug": "1-whats-the-purpose-of-firewall",
+         "file": "content/cyber/cybersecurity-101/security-solutions/2-firewall-fundamentals/1-whats-the-purpose-of-firewall.md",
+         "date": "2025-12-03"
+        },
+        {
+         "name": "2. Types of Firewalls",
+         "slug": "2-types-of-firewalls",
+         "file": "content/cyber/cybersecurity-101/security-solutions/2-firewall-fundamentals/2-types-of-firewalls.md",
+         "date": "2025-12-03"
+        },
+        {
+         "name": "3. Rules in Firewalls",
+         "slug": "3-rules-in-firewalls",
+         "file": "content/cyber/cybersecurity-101/security-solutions/2-firewall-fundamentals/3-rules-in-firewalls.md",
+         "date": "2025-12-03"
+        },
+        {
+         "name": "4. Windows Defender Firewall",
+         "slug": "4-windows-defender-firewall",
+         "file": "content/cyber/cybersecurity-101/security-solutions/2-firewall-fundamentals/4-windows-defender-firewall.md",
+         "date": "2025-12-03"
+        },
+        {
+         "name": "5. Linux iptables firewall",
+         "slug": "5-linux-iptables-firewall",
+         "file": "content/cyber/cybersecurity-101/security-solutions/2-firewall-fundamentals/5-linux-iptables-firewall.md",
+         "date": "2025-12-04"
+        }
+       ]
+      },
+      {
+       "name": "3. IDS Fundamentals",
+       "slug": "3-ids-fundamentals",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. What is IDS?",
+         "slug": "1-what-is-ids",
+         "file": "content/cyber/cybersecurity-101/security-solutions/3-ids-fundamentals/1-what-is-ids.md",
+         "date": "2025-12-05"
+        },
+        {
+         "name": "2. Types of IDS",
+         "slug": "2-types-of-ids",
+         "file": "content/cyber/cybersecurity-101/security-solutions/3-ids-fundamentals/2-types-of-ids.md",
+         "date": "2025-12-05"
+        },
+        {
+         "name": "3. IDS Example - Snort",
+         "slug": "3-ids-example-snort",
+         "file": "content/cyber/cybersecurity-101/security-solutions/3-ids-fundamentals/3-ids-example-snort.md",
+         "date": "2025-12-05"
+        },
+        {
+         "name": "4. Snort  Usage",
+         "slug": "4-snort-usage",
+         "file": "content/cyber/cybersecurity-101/security-solutions/3-ids-fundamentals/4-snort-usage.md",
+         "date": "2025-12-05"
+        },
+        {
+         "name": "5. Practical Lab",
+         "slug": "5-practical-lab",
+         "file": "content/cyber/cybersecurity-101/security-solutions/3-ids-fundamentals/5-practical-lab.md",
+         "date": "2025-12-05"
+        }
+       ]
+      },
+      {
+       "name": "4. Vulnerability Scanning",
+       "slug": "4-vulnerability-scanning",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. What Are Vulnerabilities?",
+         "slug": "1-what-are-vulnerabilities",
+         "file": "content/cyber/cybersecurity-101/security-solutions/4-vulnerability-scanning/1-what-are-vulnerabilities.md",
+         "date": "2025-12-13"
+        },
+        {
+         "name": "2. Vulnerability Scanning",
+         "slug": "2-vulnerability-scanning",
+         "file": "content/cyber/cybersecurity-101/security-solutions/4-vulnerability-scanning/2-vulnerability-scanning.md",
+         "date": "2025-12-13"
+        },
+        {
+         "name": "3. Tools for Vulnerability Scanning",
+         "slug": "3-tools-for-vulnerability-scanning",
+         "file": "content/cyber/cybersecurity-101/security-solutions/4-vulnerability-scanning/3-tools-for-vulnerability-scanning.md",
+         "date": "2025-12-13"
+        },
+        {
+         "name": "4. CVE & CVSS",
+         "slug": "4-cve-cvss",
+         "file": "content/cyber/cybersecurity-101/security-solutions/4-vulnerability-scanning/4-cve-cvss.md",
+         "date": "2025-12-13"
+        },
+        {
+         "name": "5. OpenVAS",
+         "slug": "5-openvas",
+         "file": "content/cyber/cybersecurity-101/security-solutions/4-vulnerability-scanning/5-openvas.md",
+         "date": "2025-12-13"
+        }
+       ]
+      }
+     ],
+     "notes": []
+    },
+    {
+     "name": "Web Hacking",
+     "slug": "web-hacking",
+     "dirs": [
+      {
+       "name": "1. Basics",
+       "slug": "1-basics",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "0. Web Application Overview",
+         "slug": "0-web-application-overview",
+         "file": "content/cyber/cybersecurity-101/web-hacking/1-basics/0-web-application-overview.md",
+         "date": "2025-08-13"
+        },
+        {
+         "name": "1. Uniform Resource Locator",
+         "slug": "1-uniform-resource-locator",
+         "file": "content/cyber/cybersecurity-101/web-hacking/1-basics/1-uniform-resource-locator.md",
+         "date": "2025-08-13"
+        },
+        {
+         "name": "2. HTTP Messages",
+         "slug": "2-http-messages",
+         "file": "content/cyber/cybersecurity-101/web-hacking/1-basics/2-http-messages.md",
+         "date": "2025-08-13"
+        },
+        {
+         "name": "3. HTTP Request - Request Line and Methods",
+         "slug": "3-http-request-request-line-and-methods",
+         "file": "content/cyber/cybersecurity-101/web-hacking/1-basics/3-http-request-request-line-and-methods.md",
+         "date": "2025-08-13"
+        },
+        {
+         "name": "4. HTTP Request- Headers and Body",
+         "slug": "4-http-request-headers-and-body",
+         "file": "content/cyber/cybersecurity-101/web-hacking/1-basics/4-http-request-headers-and-body.md",
+         "date": "2025-08-13"
+        },
+        {
+         "name": "5. HTTP Response- Status Line and Status Codes",
+         "slug": "5-http-response-status-line-and-status-codes",
+         "file": "content/cyber/cybersecurity-101/web-hacking/1-basics/5-http-response-status-line-and-status-codes.md",
+         "date": "2025-08-13"
+        },
+        {
+         "name": "6. HTTP Response - Headers and Body",
+         "slug": "6-http-response-headers-and-body",
+         "file": "content/cyber/cybersecurity-101/web-hacking/1-basics/6-http-response-headers-and-body.md",
+         "date": "2025-08-14"
+        },
+        {
+         "name": "7. Security Headers",
+         "slug": "7-security-headers",
+         "file": "content/cyber/cybersecurity-101/web-hacking/1-basics/7-security-headers.md",
+         "date": "2025-08-14"
+        },
+        {
+         "name": "8. Practical Task - Making HTTP Requests",
+         "slug": "8-practical-task-making-http-requests",
+         "file": "content/cyber/cybersecurity-101/web-hacking/1-basics/8-practical-task-making-http-requests.md",
+         "date": "2025-08-14"
+        }
+       ]
+      },
+      {
+       "name": "2. Javascript",
+       "slug": "2-javascript",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/web-hacking/2-javascript/1-introduction.md",
+         "date": "2025-08-14"
+        },
+        {
+         "name": "2. JavaScript - Overview",
+         "slug": "2-javascript-overview",
+         "file": "content/cyber/cybersecurity-101/web-hacking/2-javascript/2-javascript-overview.md",
+         "date": "2025-08-14"
+        },
+        {
+         "name": "3. Integrating JS In HTML",
+         "slug": "3-integrating-js-in-html",
+         "file": "content/cyber/cybersecurity-101/web-hacking/2-javascript/3-integrating-js-in-html.md",
+         "date": "2025-08-14"
+        },
+        {
+         "name": "4. Abusing Dialogue Functions",
+         "slug": "4-abusing-dialogue-functions",
+         "file": "content/cyber/cybersecurity-101/web-hacking/2-javascript/4-abusing-dialogue-functions.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "5. Bypassing Control Flow Statements",
+         "slug": "5-bypassing-control-flow-statements",
+         "file": "content/cyber/cybersecurity-101/web-hacking/2-javascript/5-bypassing-control-flow-statements.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "6. Exploring Minified Files",
+         "slug": "6-exploring-minified-files",
+         "file": "content/cyber/cybersecurity-101/web-hacking/2-javascript/6-exploring-minified-files.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "7. Best Practices",
+         "slug": "7-best-practices",
+         "file": "content/cyber/cybersecurity-101/web-hacking/2-javascript/7-best-practices.md",
+         "date": "2025-08-16"
+        }
+       ]
+      },
+      {
+       "name": "3. Intro to SQL",
+       "slug": "3-intro-to-sql",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/cybersecurity-101/web-hacking/3-intro-to-sql/1-introduction.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "2. Database 101",
+         "slug": "2-database-101",
+         "file": "content/cyber/cybersecurity-101/web-hacking/3-intro-to-sql/2-database-101.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "3. SQL(Structured Query Language)",
+         "slug": "3-sql-structured-query-language",
+         "file": "content/cyber/cybersecurity-101/web-hacking/3-intro-to-sql/3-sql-structured-query-language.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "4. Database and Table Statements",
+         "slug": "4-database-and-table-statements",
+         "file": "content/cyber/cybersecurity-101/web-hacking/3-intro-to-sql/4-database-and-table-statements.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "5. CRUD Operations",
+         "slug": "5-crud-operations",
+         "file": "content/cyber/cybersecurity-101/web-hacking/3-intro-to-sql/5-crud-operations.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "6. Clauses",
+         "slug": "6-clauses",
+         "file": "content/cyber/cybersecurity-101/web-hacking/3-intro-to-sql/6-clauses.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "7. Operators",
+         "slug": "7-operators",
+         "file": "content/cyber/cybersecurity-101/web-hacking/3-intro-to-sql/7-operators.md",
+         "date": "2025-08-16"
+        },
+        {
+         "name": "8. Functions",
+         "slug": "8-functions",
+         "file": "content/cyber/cybersecurity-101/web-hacking/3-intro-to-sql/8-functions.md",
+         "date": "2025-08-16"
+        }
+       ]
+      }
+     ],
+     "notes": []
+    }
+   ],
+   "notes": []
+  },
+  {
+   "name": "pwn.college",
+   "slug": "pwn-college",
+   "dirs": [
+    {
+     "name": "Module 1",
+     "slug": "module-1",
+     "dirs": [
+      {
+       "name": "1. Globbing",
+       "slug": "1-globbing",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Getting Started with it",
+         "slug": "1-getting-started-with-it",
+         "file": "content/cyber/pwn-college/module-1/1-globbing/1-getting-started-with-it.md",
+         "date": "2025-09-11"
+        },
+        {
+         "name": "2. Matching with *",
+         "slug": "2-matching-with",
+         "file": "content/cyber/pwn-college/module-1/1-globbing/2-matching-with.md",
+         "date": "2025-09-11"
+        },
+        {
+         "name": "3. Matching with ?",
+         "slug": "3-matching-with",
+         "file": "content/cyber/pwn-college/module-1/1-globbing/3-matching-with.md",
+         "date": "2025-09-11"
+        },
+        {
+         "name": "4. Matching with []",
+         "slug": "4-matching-with",
+         "file": "content/cyber/pwn-college/module-1/1-globbing/4-matching-with.md",
+         "date": "2025-09-11"
+        },
+        {
+         "name": "5. Matching  Paths with []",
+         "slug": "5-matching-paths-with",
+         "file": "content/cyber/pwn-college/module-1/1-globbing/5-matching-paths-with.md",
+         "date": "2025-09-11"
+        },
+        {
+         "name": "6. Mixing Globs",
+         "slug": "6-mixing-globs",
+         "file": "content/cyber/pwn-college/module-1/1-globbing/6-mixing-globs.md",
+         "date": "2025-09-11"
+        },
+        {
+         "name": "7. Multiple Globs",
+         "slug": "7-multiple-globs",
+         "file": "content/cyber/pwn-college/module-1/1-globbing/7-multiple-globs.md",
+         "date": "2025-09-11"
+        },
+        {
+         "name": "8. Exclusionary Globbing",
+         "slug": "8-exclusionary-globbing",
+         "file": "content/cyber/pwn-college/module-1/1-globbing/8-exclusionary-globbing.md",
+         "date": "2025-09-11"
+        },
+        {
+         "name": "9. Tab Completion",
+         "slug": "9-tab-completion",
+         "file": "content/cyber/pwn-college/module-1/1-globbing/9-tab-completion.md",
+         "date": "2025-09-11"
+        },
+        {
+         "name": "10. Multiple Options for Tab Completion",
+         "slug": "10-multiple-options-for-tab-completion",
+         "file": "content/cyber/pwn-college/module-1/1-globbing/10-multiple-options-for-tab-completion.md",
+         "date": "2025-09-12"
+        },
+        {
+         "name": "11. Tab Completions on Commands",
+         "slug": "11-tab-completions-on-commands",
+         "file": "content/cyber/pwn-college/module-1/1-globbing/11-tab-completions-on-commands.md",
+         "date": "2025-09-12"
+        }
+       ]
+      },
+      {
+       "name": "2. Piping",
+       "slug": "2-piping",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/pwn-college/module-1/2-piping/1-introduction.md",
+         "date": "2025-09-12"
+        },
+        {
+         "name": "2. Redirecting Output",
+         "slug": "2-redirecting-output",
+         "file": "content/cyber/pwn-college/module-1/2-piping/2-redirecting-output.md",
+         "date": "2025-09-12"
+        },
+        {
+         "name": "3. Redirecting More Output",
+         "slug": "3-redirecting-more-output",
+         "file": "content/cyber/pwn-college/module-1/2-piping/3-redirecting-more-output.md",
+         "date": "2025-09-12"
+        },
+        {
+         "name": "4. Appending Output",
+         "slug": "4-appending-output",
+         "file": "content/cyber/pwn-college/module-1/2-piping/4-appending-output.md",
+         "date": "2025-09-12"
+        },
+        {
+         "name": "5. Redirecting Errors",
+         "slug": "5-redirecting-errors",
+         "file": "content/cyber/pwn-college/module-1/2-piping/5-redirecting-errors.md",
+         "date": "2025-09-12"
+        },
+        {
+         "name": "6. Redirecting Inputs",
+         "slug": "6-redirecting-inputs",
+         "file": "content/cyber/pwn-college/module-1/2-piping/6-redirecting-inputs.md",
+         "date": "2025-09-12"
+        },
+        {
+         "name": "7. Grepping Stored Results",
+         "slug": "7-grepping-stored-results",
+         "file": "content/cyber/pwn-college/module-1/2-piping/7-grepping-stored-results.md",
+         "date": "2025-09-12"
+        },
+        {
+         "name": "8. Grepping Live Output",
+         "slug": "8-grepping-live-output",
+         "file": "content/cyber/pwn-college/module-1/2-piping/8-grepping-live-output.md",
+         "date": "2025-09-12"
+        },
+        {
+         "name": "9. Grepping Errors",
+         "slug": "9-grepping-errors",
+         "file": "content/cyber/pwn-college/module-1/2-piping/9-grepping-errors.md",
+         "date": "2025-09-12"
+        },
+        {
+         "name": "10. Filtering with Grep-V",
+         "slug": "10-filtering-with-grep-v",
+         "file": "content/cyber/pwn-college/module-1/2-piping/10-filtering-with-grep-v.md",
+         "date": "2025-09-12"
+        },
+        {
+         "name": "11. Duplicating Piped Data with Tee",
+         "slug": "11-duplicating-piped-data-with-tee",
+         "file": "content/cyber/pwn-college/module-1/2-piping/11-duplicating-piped-data-with-tee.md",
+         "date": "2025-09-14"
+        },
+        {
+         "name": "12 . Process substitution for input",
+         "slug": "12-process-substitution-for-input",
+         "file": "content/cyber/pwn-college/module-1/2-piping/12-process-substitution-for-input.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "13. Writing to Multiple Programs",
+         "slug": "13-writing-to-multiple-programs",
+         "file": "content/cyber/pwn-college/module-1/2-piping/13-writing-to-multiple-programs.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "14 . Split Piping stderr and stdout",
+         "slug": "14-split-piping-stderr-and-stdout",
+         "file": "content/cyber/pwn-college/module-1/2-piping/14-split-piping-stderr-and-stdout.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "15. Named Pipes",
+         "slug": "15-named-pipes",
+         "file": "content/cyber/pwn-college/module-1/2-piping/15-named-pipes.md",
+         "date": "2025-09-15"
+        }
+       ]
+      },
+      {
+       "name": "3. Shell Variables",
+       "slug": "3-shell-variables",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/pwn-college/module-1/3-shell-variables/1-introduction.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "2. Printing Variables",
+         "slug": "2-printing-variables",
+         "file": "content/cyber/pwn-college/module-1/3-shell-variables/2-printing-variables.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "3. Setting Variables",
+         "slug": "3-setting-variables",
+         "file": "content/cyber/pwn-college/module-1/3-shell-variables/3-setting-variables.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "4. Multi-word Variables",
+         "slug": "4-multi-word-variables",
+         "file": "content/cyber/pwn-college/module-1/3-shell-variables/4-multi-word-variables.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "5. Exporting Variables",
+         "slug": "5-exporting-variables",
+         "file": "content/cyber/pwn-college/module-1/3-shell-variables/5-exporting-variables.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "6. Printing Exported Values",
+         "slug": "6-printing-exported-values",
+         "file": "content/cyber/pwn-college/module-1/3-shell-variables/6-printing-exported-values.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "7. Storing Command Output",
+         "slug": "7-storing-command-output",
+         "file": "content/cyber/pwn-college/module-1/3-shell-variables/7-storing-command-output.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "8. Reading Input",
+         "slug": "8-reading-input",
+         "file": "content/cyber/pwn-college/module-1/3-shell-variables/8-reading-input.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "9. Reading Files",
+         "slug": "9-reading-files",
+         "file": "content/cyber/pwn-college/module-1/3-shell-variables/9-reading-files.md",
+         "date": "2025-09-15"
+        }
+       ]
+      },
+      {
+       "name": "4. Data Manipulation",
+       "slug": "4-data-manipulation",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/pwn-college/module-1/4-data-manipulation/1-introduction.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "2. Translating Characters",
+         "slug": "2-translating-characters",
+         "file": "content/cyber/pwn-college/module-1/4-data-manipulation/2-translating-characters.md",
+         "date": "2025-09-15"
+        },
+        {
+         "name": "3. Deleting Characters",
+         "slug": "3-deleting-characters",
+         "file": "content/cyber/pwn-college/module-1/4-data-manipulation/3-deleting-characters.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "4. Deleting Newlines",
+         "slug": "4-deleting-newlines",
+         "file": "content/cyber/pwn-college/module-1/4-data-manipulation/4-deleting-newlines.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "5. Extracting the First Lines with Head",
+         "slug": "5-extracting-the-first-lines-with-head",
+         "file": "content/cyber/pwn-college/module-1/4-data-manipulation/5-extracting-the-first-lines-with-head.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "5. Sorting Data",
+         "slug": "5-sorting-data",
+         "file": "content/cyber/pwn-college/module-1/4-data-manipulation/5-sorting-data.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "6. Extracting Specific Sections of Text",
+         "slug": "6-extracting-specific-sections-of-text",
+         "file": "content/cyber/pwn-college/module-1/4-data-manipulation/6-extracting-specific-sections-of-text.md",
+         "date": "2025-09-16"
+        }
+       ]
+      },
+      {
+       "name": "5. Processes and Jobs",
+       "slug": "5-processes-and-jobs",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/pwn-college/module-1/5-processes-and-jobs/1-introduction.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "2. Listing Processes",
+         "slug": "2-listing-processes",
+         "file": "content/cyber/pwn-college/module-1/5-processes-and-jobs/2-listing-processes.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "3. Killing Processes",
+         "slug": "3-killing-processes",
+         "file": "content/cyber/pwn-college/module-1/5-processes-and-jobs/3-killing-processes.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "4. Interrupting Processes",
+         "slug": "4-interrupting-processes",
+         "file": "content/cyber/pwn-college/module-1/5-processes-and-jobs/4-interrupting-processes.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "5. Killing Misbehaving Processes",
+         "slug": "5-killing-misbehaving-processes",
+         "file": "content/cyber/pwn-college/module-1/5-processes-and-jobs/5-killing-misbehaving-processes.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "6. Suspending Processes",
+         "slug": "6-suspending-processes",
+         "file": "content/cyber/pwn-college/module-1/5-processes-and-jobs/6-suspending-processes.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "7. Resuming Processes",
+         "slug": "7-resuming-processes",
+         "file": "content/cyber/pwn-college/module-1/5-processes-and-jobs/7-resuming-processes.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "8. Backgrounding Processes",
+         "slug": "8-backgrounding-processes",
+         "file": "content/cyber/pwn-college/module-1/5-processes-and-jobs/8-backgrounding-processes.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "9. Foregrounding Processes",
+         "slug": "9-foregrounding-processes",
+         "file": "content/cyber/pwn-college/module-1/5-processes-and-jobs/9-foregrounding-processes.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "10. Starting Backgrounded Processes",
+         "slug": "10-starting-backgrounded-processes",
+         "file": "content/cyber/pwn-college/module-1/5-processes-and-jobs/10-starting-backgrounded-processes.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "11. Process Exit Codes",
+         "slug": "11-process-exit-codes",
+         "file": "content/cyber/pwn-college/module-1/5-processes-and-jobs/11-process-exit-codes.md",
+         "date": "2025-09-16"
+        }
+       ]
+      },
+      {
+       "name": "6. Untangling Users",
+       "slug": "6-untangling-users",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/pwn-college/module-1/6-untangling-users/1-introduction.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "2. Becoming Root with Su",
+         "slug": "2-becoming-root-with-su",
+         "file": "content/cyber/pwn-college/module-1/6-untangling-users/2-becoming-root-with-su.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "3. Other Users with Su",
+         "slug": "3-other-users-with-su",
+         "file": "content/cyber/pwn-college/module-1/6-untangling-users/3-other-users-with-su.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "4. Cracking Passwords",
+         "slug": "4-cracking-passwords",
+         "file": "content/cyber/pwn-college/module-1/6-untangling-users/4-cracking-passwords.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "5. Using Sudo",
+         "slug": "5-using-sudo",
+         "file": "content/cyber/pwn-college/module-1/6-untangling-users/5-using-sudo.md",
+         "date": "2025-09-16"
+        }
+       ]
+      },
+      {
+       "name": "7. Perceiving Permissions",
+       "slug": "7-perceiving-permissions",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Changing File Ownership",
+         "slug": "1-changing-file-ownership",
+         "file": "content/cyber/pwn-college/module-1/7-perceiving-permissions/1-changing-file-ownership.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "2. Groups and Files",
+         "slug": "2-groups-and-files",
+         "file": "content/cyber/pwn-college/module-1/7-perceiving-permissions/2-groups-and-files.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "3. Fun with group Names",
+         "slug": "3-fun-with-group-names",
+         "file": "content/cyber/pwn-college/module-1/7-perceiving-permissions/3-fun-with-group-names.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "4. Changing Permissions",
+         "slug": "4-changing-permissions",
+         "file": "content/cyber/pwn-college/module-1/7-perceiving-permissions/4-changing-permissions.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "4. Executable Files",
+         "slug": "4-executable-files",
+         "file": "content/cyber/pwn-college/module-1/7-perceiving-permissions/4-executable-files.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "5. Permission Tweaking Practice",
+         "slug": "5-permission-tweaking-practice",
+         "file": "content/cyber/pwn-college/module-1/7-perceiving-permissions/5-permission-tweaking-practice.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "6. Permissions Setting Practice",
+         "slug": "6-permissions-setting-practice",
+         "file": "content/cyber/pwn-college/module-1/7-perceiving-permissions/6-permissions-setting-practice.md",
+         "date": "2025-09-16"
+        },
+        {
+         "name": "7. The SUID Bit",
+         "slug": "7-the-suid-bit",
+         "file": "content/cyber/pwn-college/module-1/7-perceiving-permissions/7-the-suid-bit.md",
+         "date": "2025-09-16"
+        }
+       ]
+      },
+      {
+       "name": "8. Chaining Commands",
+       "slug": "8-chaining-commands",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/1-introduction.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "2. Chaining with Semicolons",
+         "slug": "2-chaining-with-semicolons",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/2-chaining-with-semicolons.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "3. Building on Success",
+         "slug": "3-building-on-success",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/3-building-on-success.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "4. Handling Failure",
+         "slug": "4-handling-failure",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/4-handling-failure.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "5. Your First Shell Script",
+         "slug": "5-your-first-shell-script",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/5-your-first-shell-script.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "6. Redirecting Script Output",
+         "slug": "6-redirecting-script-output",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/6-redirecting-script-output.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "7. Executable Shell Scripts",
+         "slug": "7-executable-shell-scripts",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/7-executable-shell-scripts.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "8. Understanding Shebangs",
+         "slug": "8-understanding-shebangs",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/8-understanding-shebangs.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "9. Scripting with Arguments",
+         "slug": "9-scripting-with-arguments",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/9-scripting-with-arguments.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "10. Scripting with Conditionals",
+         "slug": "10-scripting-with-conditionals",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/10-scripting-with-conditionals.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "11. Scripting with Default Cases",
+         "slug": "11-scripting-with-default-cases",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/11-scripting-with-default-cases.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "12. Scripting with multiple conditions",
+         "slug": "12-scripting-with-multiple-conditions",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/12-scripting-with-multiple-conditions.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "13. Reading Shell Scripts",
+         "slug": "13-reading-shell-scripts",
+         "file": "content/cyber/pwn-college/module-1/8-chaining-commands/13-reading-shell-scripts.md",
+         "date": "2025-09-18"
+        }
+       ]
+      },
+      {
+       "name": "9. Terminal Multiplexing",
+       "slug": "9-terminal-multiplexing",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Launching Screen",
+         "slug": "1-launching-screen",
+         "file": "content/cyber/pwn-college/module-1/9-terminal-multiplexing/1-launching-screen.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "2. Detaching and Attaching",
+         "slug": "2-detaching-and-attaching",
+         "file": "content/cyber/pwn-college/module-1/9-terminal-multiplexing/2-detaching-and-attaching.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "3. Finding Sessions",
+         "slug": "3-finding-sessions",
+         "file": "content/cyber/pwn-college/module-1/9-terminal-multiplexing/3-finding-sessions.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "4. Switching Windows",
+         "slug": "4-switching-windows",
+         "file": "content/cyber/pwn-college/module-1/9-terminal-multiplexing/4-switching-windows.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "5. Detaching and Attaching (tmux)",
+         "slug": "5-detaching-and-attaching-tmux",
+         "file": "content/cyber/pwn-college/module-1/9-terminal-multiplexing/5-detaching-and-attaching-tmux.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "6. Switching Windows(tmux)",
+         "slug": "6-switching-windows-tmux",
+         "file": "content/cyber/pwn-college/module-1/9-terminal-multiplexing/6-switching-windows-tmux.md",
+         "date": "2025-09-17"
+        }
+       ]
+      },
+      {
+       "name": "10. Pondering  Path",
+       "slug": "10-pondering-path",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "0. Introduction",
+         "slug": "0-introduction",
+         "file": "content/cyber/pwn-college/module-1/10-pondering-path/0-introduction.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "1. The Path Variable",
+         "slug": "1-the-path-variable",
+         "file": "content/cyber/pwn-college/module-1/10-pondering-path/1-the-path-variable.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "2. Setting Path",
+         "slug": "2-setting-path",
+         "file": "content/cyber/pwn-college/module-1/10-pondering-path/2-setting-path.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "3. Finding Paths",
+         "slug": "3-finding-paths",
+         "file": "content/cyber/pwn-college/module-1/10-pondering-path/3-finding-paths.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "4. Adding Commands",
+         "slug": "4-adding-commands",
+         "file": "content/cyber/pwn-college/module-1/10-pondering-path/4-adding-commands.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "5. Hijacking Commands",
+         "slug": "5-hijacking-commands",
+         "file": "content/cyber/pwn-college/module-1/10-pondering-path/5-hijacking-commands.md",
+         "date": "2025-09-17"
+        }
+       ]
+      },
+      {
+       "name": "11. Silly Shenanigans",
+       "slug": "11-silly-shenanigans",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Bashrc Backdoor",
+         "slug": "1-bashrc-backdoor",
+         "file": "content/cyber/pwn-college/module-1/11-silly-shenanigans/1-bashrc-backdoor.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "2. Sniffing Input",
+         "slug": "2-sniffing-input",
+         "file": "content/cyber/pwn-college/module-1/11-silly-shenanigans/2-sniffing-input.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "3. Overshared Directories",
+         "slug": "3-overshared-directories",
+         "file": "content/cyber/pwn-college/module-1/11-silly-shenanigans/3-overshared-directories.md",
+         "date": "2025-09-17"
+        },
+        {
+         "name": "4. Tricky Linking",
+         "slug": "4-tricky-linking",
+         "file": "content/cyber/pwn-college/module-1/11-silly-shenanigans/4-tricky-linking.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "5. Sniffing Process Arguments",
+         "slug": "5-sniffing-process-arguments",
+         "file": "content/cyber/pwn-college/module-1/11-silly-shenanigans/5-sniffing-process-arguments.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "12. Snooping on Configurations",
+         "slug": "12-snooping-on-configurations",
+         "file": "content/cyber/pwn-college/module-1/11-silly-shenanigans/12-snooping-on-configurations.md",
+         "date": "2025-09-18"
+        }
+       ]
+      },
+      {
+       "name": "12. Daring Destructions",
+       "slug": "12-daring-destructions",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "0. Introduction",
+         "slug": "0-introduction",
+         "file": "content/cyber/pwn-college/module-1/12-daring-destructions/0-introduction.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "1. Fork Bomb",
+         "slug": "1-fork-bomb",
+         "file": "content/cyber/pwn-college/module-1/12-daring-destructions/1-fork-bomb.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "2. Disk-Space Doomsday",
+         "slug": "2-disk-space-doomsday",
+         "file": "content/cyber/pwn-college/module-1/12-daring-destructions/2-disk-space-doomsday.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "3. rm -rf",
+         "slug": "3-rm-rf",
+         "file": "content/cyber/pwn-college/module-1/12-daring-destructions/3-rm-rf.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "4. Life after rm -rf slash",
+         "slug": "4-life-after-rm-rf-slash",
+         "file": "content/cyber/pwn-college/module-1/12-daring-destructions/4-life-after-rm-rf-slash.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "5. Finding mean after rm -rf",
+         "slug": "5-finding-mean-after-rm-rf",
+         "file": "content/cyber/pwn-college/module-1/12-daring-destructions/5-finding-mean-after-rm-rf.md",
+         "date": "2025-09-18"
+        }
+       ]
+      }
+     ],
+     "notes": []
+    },
+    {
+     "name": "Module 2",
+     "slug": "module-2",
+     "dirs": [],
+     "notes": [
+      {
+       "name": "0. Dealing with Data -Introduction",
+       "slug": "0-dealing-with-data-introduction",
+       "file": "content/cyber/pwn-college/module-2/0-dealing-with-data-introduction.md",
+       "date": "2025-11-29"
+      },
+      {
+       "name": "1. Lecture -  Binary Data",
+       "slug": "1-lecture-binary-data",
+       "file": "content/cyber/pwn-college/module-2/1-lecture-binary-data.md",
+       "date": "2025-11-29"
+      },
+      {
+       "name": "2. Hex",
+       "slug": "2-hex",
+       "file": "content/cyber/pwn-college/module-2/2-hex.md",
+       "date": "2025-11-29"
+      },
+      {
+       "name": "3. Text Encoding",
+       "slug": "3-text-encoding",
+       "file": "content/cyber/pwn-college/module-2/3-text-encoding.md",
+       "date": "2025-11-29"
+      },
+      {
+       "name": "4. Playing with encodings",
+       "slug": "4-playing-with-encodings",
+       "file": "content/cyber/pwn-college/module-2/4-playing-with-encodings.md",
+       "date": "2025-11-29"
+      }
+     ]
+    },
+    {
+     "name": "Module 4",
+     "slug": "module-4",
+     "dirs": [
+      {
+       "name": "0. Lectures",
+       "slug": "0-lectures",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Computer Architecture",
+         "slug": "1-computer-architecture",
+         "file": "content/cyber/pwn-college/module-4/0-lectures/1-computer-architecture.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "2. Assembly",
+         "slug": "2-assembly",
+         "file": "content/cyber/pwn-college/module-4/0-lectures/2-assembly.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "3. Data",
+         "slug": "3-data",
+         "file": "content/cyber/pwn-college/module-4/0-lectures/3-data.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "4. Registers",
+         "slug": "4-registers",
+         "file": "content/cyber/pwn-college/module-4/0-lectures/4-registers.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "5. Memory",
+         "slug": "5-memory",
+         "file": "content/cyber/pwn-college/module-4/0-lectures/5-memory.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "6. Control Flow",
+         "slug": "6-control-flow",
+         "file": "content/cyber/pwn-college/module-4/0-lectures/6-control-flow.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "7. Environment Interaction",
+         "slug": "7-environment-interaction",
+         "file": "content/cyber/pwn-college/module-4/0-lectures/7-environment-interaction.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "8. Building Programs",
+         "slug": "8-building-programs",
+         "file": "content/cyber/pwn-college/module-4/0-lectures/8-building-programs.md",
+         "date": "2025-09-19"
+        },
+        {
+         "name": "9. Little Endian - Big Endian",
+         "slug": "9-little-endian-big-endian",
+         "file": "content/cyber/pwn-college/module-4/0-lectures/9-little-endian-big-endian.md",
+         "date": "2025-11-29"
+        }
+       ]
+      },
+      {
+       "name": "1. Assembly",
+       "slug": "1-assembly",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Your First Program",
+         "slug": "1-your-first-program",
+         "file": "content/cyber/pwn-college/module-4/1-assembly/1-your-first-program.md",
+         "date": "2025-09-18"
+        },
+        {
+         "name": "2 . Your First Register",
+         "slug": "2-your-first-register",
+         "file": "content/cyber/pwn-college/module-4/1-assembly/2-your-first-register.md",
+         "date": "2025-09-19"
+        },
+        {
+         "name": "3. Your First Syscall",
+         "slug": "3-your-first-syscall",
+         "file": "content/cyber/pwn-college/module-4/1-assembly/3-your-first-syscall.md",
+         "date": "2025-09-19"
+        },
+        {
+         "name": "4. Exit Codes",
+         "slug": "4-exit-codes",
+         "file": "content/cyber/pwn-college/module-4/1-assembly/4-exit-codes.md",
+         "date": "2025-09-19"
+        },
+        {
+         "name": "5. Building Executables",
+         "slug": "5-building-executables",
+         "file": "content/cyber/pwn-college/module-4/1-assembly/5-building-executables.md",
+         "date": "2025-09-19"
+        },
+        {
+         "name": "6. Moving Between Registers",
+         "slug": "6-moving-between-registers",
+         "file": "content/cyber/pwn-college/module-4/1-assembly/6-moving-between-registers.md",
+         "date": "2025-09-19"
+        }
+       ]
+      },
+      {
+       "name": "2. Software Introseption",
+       "slug": "2-software-introseption",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "0. Introduction",
+         "slug": "0-introduction",
+         "file": "content/cyber/pwn-college/module-4/2-software-introseption/0-introduction.md",
+         "date": "2025-09-19"
+        },
+        {
+         "name": "1. Tracing Syscalls",
+         "slug": "1-tracing-syscalls",
+         "file": "content/cyber/pwn-college/module-4/2-software-introseption/1-tracing-syscalls.md",
+         "date": "2025-09-19"
+        },
+        {
+         "name": "2. Starting GDB",
+         "slug": "2-starting-gdb",
+         "file": "content/cyber/pwn-college/module-4/2-software-introseption/2-starting-gdb.md",
+         "date": "2025-09-19"
+        },
+        {
+         "name": "3. Starting Programs in GDB",
+         "slug": "3-starting-programs-in-gdb",
+         "file": "content/cyber/pwn-college/module-4/2-software-introseption/3-starting-programs-in-gdb.md",
+         "date": "2025-09-19"
+        }
+       ]
+      },
+      {
+       "name": "3. Computer Memory",
+       "slug": "3-computer-memory",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "0. Introduction",
+         "slug": "0-introduction",
+         "file": "content/cyber/pwn-college/module-4/3-computer-memory/0-introduction.md",
+         "date": "2025-09-19"
+        },
+        {
+         "name": "1. Loading From Memory",
+         "slug": "1-loading-from-memory",
+         "file": "content/cyber/pwn-college/module-4/3-computer-memory/1-loading-from-memory.md",
+         "date": "2025-09-20"
+        },
+        {
+         "name": "2. More Loading Practice",
+         "slug": "2-more-loading-practice",
+         "file": "content/cyber/pwn-college/module-4/3-computer-memory/2-more-loading-practice.md",
+         "date": "2025-09-20"
+        },
+        {
+         "name": "3. Dereferencing Pointers",
+         "slug": "3-dereferencing-pointers",
+         "file": "content/cyber/pwn-college/module-4/3-computer-memory/3-dereferencing-pointers.md",
+         "date": "2025-09-20"
+        },
+        {
+         "name": "4. Dereferencing Yourself",
+         "slug": "4-dereferencing-yourself",
+         "file": "content/cyber/pwn-college/module-4/3-computer-memory/4-dereferencing-yourself.md",
+         "date": "2025-09-20"
+        },
+        {
+         "name": "5. Dereferencing with Offsets*",
+         "slug": "5-dereferencing-with-offsets",
+         "file": "content/cyber/pwn-college/module-4/3-computer-memory/5-dereferencing-with-offsets.md",
+         "date": "2025-09-20"
+        },
+        {
+         "name": "6. Stored Addresses",
+         "slug": "6-stored-addresses",
+         "file": "content/cyber/pwn-college/module-4/3-computer-memory/6-stored-addresses.md",
+         "date": "2025-09-20"
+        },
+        {
+         "name": "7. Double Dereference",
+         "slug": "7-double-dereference",
+         "file": "content/cyber/pwn-college/module-4/3-computer-memory/7-double-dereference.md",
+         "date": "2025-09-21"
+        },
+        {
+         "name": "8. Triple Deference",
+         "slug": "8-triple-deference",
+         "file": "content/cyber/pwn-college/module-4/3-computer-memory/8-triple-deference.md",
+         "date": "2025-09-22"
+        }
+       ]
+      },
+      {
+       "name": "4. Hello Hackers",
+       "slug": "4-hello-hackers",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/pwn-college/module-4/4-hello-hackers/1-introduction.md",
+         "date": "2025-09-23"
+        },
+        {
+         "name": "2. Writing Output",
+         "slug": "2-writing-output",
+         "file": "content/cyber/pwn-college/module-4/4-hello-hackers/2-writing-output.md",
+         "date": "2025-09-23"
+        },
+        {
+         "name": "3. Chaining Syscalls",
+         "slug": "3-chaining-syscalls",
+         "file": "content/cyber/pwn-college/module-4/4-hello-hackers/3-chaining-syscalls.md",
+         "date": "2025-09-23"
+        },
+        {
+         "name": "4. Writing Strings",
+         "slug": "4-writing-strings",
+         "file": "content/cyber/pwn-college/module-4/4-hello-hackers/4-writing-strings.md",
+         "date": "2025-09-23"
+        },
+        {
+         "name": "5. Reading Data",
+         "slug": "5-reading-data",
+         "file": "content/cyber/pwn-college/module-4/4-hello-hackers/5-reading-data.md",
+         "date": "2025-09-24"
+        }
+       ]
+      },
+      {
+       "name": "5. Assembly Crash Course",
+       "slug": "5-assembly-crash-course",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Introduction",
+         "slug": "1-introduction",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/1-introduction.md",
+         "date": "2025-09-23"
+        },
+        {
+         "name": "2. Set-Register",
+         "slug": "2-set-register",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/2-set-register.md",
+         "date": "2025-09-24"
+        },
+        {
+         "name": "3. Set-Multiple-Registers*",
+         "slug": "3-set-multiple-registers",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/3-set-multiple-registers.md",
+         "date": "2025-09-24"
+        },
+        {
+         "name": "4. Add-to-Register",
+         "slug": "4-add-to-register",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/4-add-to-register.md",
+         "date": "2025-09-24"
+        },
+        {
+         "name": "5. Linear-Equation-Registers",
+         "slug": "5-linear-equation-registers",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/5-linear-equation-registers.md",
+         "date": "2025-09-24"
+        },
+        {
+         "name": "6. Integer-Division",
+         "slug": "6-integer-division",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/6-integer-division.md",
+         "date": "2025-09-28"
+        },
+        {
+         "name": "7. Modulo Operation",
+         "slug": "7-modulo-operation",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/7-modulo-operation.md",
+         "date": "2025-09-28"
+        },
+        {
+         "name": "8. Set-Upper-Byte*",
+         "slug": "8-set-upper-byte",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/8-set-upper-byte.md",
+         "date": "2025-09-27"
+        },
+        {
+         "name": "9. efficient-modulo*",
+         "slug": "9-efficient-modulo",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/9-efficient-modulo.md",
+         "date": "2025-09-28"
+        },
+        {
+         "name": "10. byte-extraction*",
+         "slug": "10-byte-extraction",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/10-byte-extraction.md",
+         "date": "2025-09-28"
+        },
+        {
+         "name": "11. bitwise-and*",
+         "slug": "11-bitwise-and",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/11-bitwise-and.md",
+         "date": "2025-09-28"
+        },
+        {
+         "name": "12. check-even*",
+         "slug": "12-check-even",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/12-check-even.md",
+         "date": "2025-09-29"
+        },
+        {
+         "name": "13. memory-read*",
+         "slug": "13-memory-read",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/13-memory-read.md",
+         "date": "2025-09-30"
+        },
+        {
+         "name": "14. memory-write",
+         "slug": "14-memory-write",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/14-memory-write.md",
+         "date": "2025-09-30"
+        },
+        {
+         "name": "15. memory-increment",
+         "slug": "15-memory-increment",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/15-memory-increment.md",
+         "date": "2025-09-30"
+        },
+        {
+         "name": "16. byte-access*",
+         "slug": "16-byte-access",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/16-byte-access.md",
+         "date": "2025-10-01"
+        },
+        {
+         "name": "17. memory-size-access*",
+         "slug": "17-memory-size-access",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/17-memory-size-access.md",
+         "date": "2025-10-02"
+        },
+        {
+         "name": "18. little-endian-write",
+         "slug": "18-little-endian-write",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/18-little-endian-write.md",
+         "date": "2025-10-05"
+        },
+        {
+         "name": "19. memory-sum",
+         "slug": "19-memory-sum",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/19-memory-sum.md",
+         "date": "2025-10-05"
+        },
+        {
+         "name": "20. stack-substraction",
+         "slug": "20-stack-substraction",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/20-stack-substraction.md",
+         "date": "2025-10-05"
+        },
+        {
+         "name": "20. swap-stack-values",
+         "slug": "20-swap-stack-values",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/20-swap-stack-values.md",
+         "date": "2025-10-06"
+        },
+        {
+         "name": "21. average-stack-values",
+         "slug": "21-average-stack-values",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/21-average-stack-values.md",
+         "date": "2025-10-06"
+        },
+        {
+         "name": "22. absolute-jump",
+         "slug": "22-absolute-jump",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/22-absolute-jump.md",
+         "date": "2025-10-06"
+        },
+        {
+         "name": "23. relative-jump*",
+         "slug": "23-relative-jump",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/23-relative-jump.md",
+         "date": "2025-10-07"
+        },
+        {
+         "name": "24. jump-trampoline*",
+         "slug": "24-jump-trampoline",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/24-jump-trampoline.md",
+         "date": "2025-10-08"
+        },
+        {
+         "name": "25. conditional-jump",
+         "slug": "25-conditional-jump",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/25-conditional-jump.md",
+         "date": "2025-10-11"
+        },
+        {
+         "name": "26. indirect-jump",
+         "slug": "26-indirect-jump",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/26-indirect-jump.md",
+         "date": "2025-10-12"
+        },
+        {
+         "name": "27. average-loop",
+         "slug": "27-average-loop",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/27-average-loop.md",
+         "date": "2025-10-13"
+        },
+        {
+         "name": "28 . count-non-zero",
+         "slug": "28-count-non-zero",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/28-count-non-zero.md",
+         "date": "2025-10-13"
+        },
+        {
+         "name": "29. string-lower",
+         "slug": "29-string-lower",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/29-string-lower.md",
+         "date": "2025-10-15"
+        },
+        {
+         "name": "30. most-common-byte",
+         "slug": "30-most-common-byte",
+         "file": "content/cyber/pwn-college/module-4/5-assembly-crash-course/30-most-common-byte.md",
+         "date": "2025-10-15"
+        }
+       ]
+      },
+      {
+       "name": "6. Debugging Refresher",
+       "slug": "6-debugging-refresher",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "0. Introduction",
+         "slug": "0-introduction",
+         "file": "content/cyber/pwn-college/module-4/6-debugging-refresher/0-introduction.md",
+         "date": "2025-10-30"
+        },
+        {
+         "name": "1. Debugging Programs",
+         "slug": "1-debugging-programs",
+         "file": "content/cyber/pwn-college/module-4/6-debugging-refresher/1-debugging-programs.md",
+         "date": "2025-10-16"
+        },
+        {
+         "name": "2. Inspecting Registers",
+         "slug": "2-inspecting-registers",
+         "file": "content/cyber/pwn-college/module-4/6-debugging-refresher/2-inspecting-registers.md",
+         "date": "2025-10-30"
+        },
+        {
+         "name": "3. Examining Memory",
+         "slug": "3-examining-memory",
+         "file": "content/cyber/pwn-college/module-4/6-debugging-refresher/3-examining-memory.md",
+         "date": "2026-01-05"
+        },
+        {
+         "name": "4. Setting Breakpoints",
+         "slug": "4-setting-breakpoints",
+         "file": "content/cyber/pwn-college/module-4/6-debugging-refresher/4-setting-breakpoints.md",
+         "date": "2026-01-06"
+        },
+        {
+         "name": "5. GDB Scripting",
+         "slug": "5-gdb-scripting",
+         "file": "content/cyber/pwn-college/module-4/6-debugging-refresher/5-gdb-scripting.md",
+         "date": "2026-01-07"
+        },
+        {
+         "name": "6. Modifying Execution",
+         "slug": "6-modifying-execution",
+         "file": "content/cyber/pwn-college/module-4/6-debugging-refresher/6-modifying-execution.md",
+         "date": "2026-01-07"
+        },
+        {
+         "name": "7. Modifying Data",
+         "slug": "7-modifying-data",
+         "file": "content/cyber/pwn-college/module-4/6-debugging-refresher/7-modifying-data.md",
+         "date": "2026-01-07"
+        },
+        {
+         "name": "8. Broken Functions",
+         "slug": "8-broken-functions",
+         "file": "content/cyber/pwn-college/module-4/6-debugging-refresher/8-broken-functions.md",
+         "date": "2026-01-07"
+        }
+       ]
+      },
+      {
+       "name": "7. Building a Web Server",
+       "slug": "7-building-a-web-server",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. Exit",
+         "slug": "1-exit",
+         "file": "content/cyber/pwn-college/module-4/7-building-a-web-server/1-exit.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "2. Socket",
+         "slug": "2-socket",
+         "file": "content/cyber/pwn-college/module-4/7-building-a-web-server/2-socket.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "3. Bind",
+         "slug": "3-bind",
+         "file": "content/cyber/pwn-college/module-4/7-building-a-web-server/3-bind.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "4. Listen",
+         "slug": "4-listen",
+         "file": "content/cyber/pwn-college/module-4/7-building-a-web-server/4-listen.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "5. Accept",
+         "slug": "5-accept",
+         "file": "content/cyber/pwn-college/module-4/7-building-a-web-server/5-accept.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "6. Static Response",
+         "slug": "6-static-response",
+         "file": "content/cyber/pwn-college/module-4/7-building-a-web-server/6-static-response.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "7. Dynamic Response",
+         "slug": "7-dynamic-response",
+         "file": "content/cyber/pwn-college/module-4/7-building-a-web-server/7-dynamic-response.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "8. Concurrent GET Server",
+         "slug": "8-concurrent-get-server",
+         "file": "content/cyber/pwn-college/module-4/7-building-a-web-server/8-concurrent-get-server.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "9. Concurrent POST Server",
+         "slug": "9-concurrent-post-server",
+         "file": "content/cyber/pwn-college/module-4/7-building-a-web-server/9-concurrent-post-server.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "10. Iterative GET Server",
+         "slug": "10-iterative-get-server",
+         "file": "content/cyber/pwn-college/module-4/7-building-a-web-server/10-iterative-get-server.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "11. Web Server",
+         "slug": "11-web-server",
+         "file": "content/cyber/pwn-college/module-4/7-building-a-web-server/11-web-server.md",
+         "date": "2026-01-10"
+        }
+       ]
+      }
+     ],
+     "notes": []
+    },
+    {
+     "name": "Playing With Programs",
+     "slug": "playing-with-programs",
+     "dirs": [
+      {
+       "name": "1. Dealing with Data",
+       "slug": "1-dealing-with-data",
+       "dirs": [],
+       "notes": [
+        {
+         "name": "1. What's the Password?",
+         "slug": "1-whats-the-password",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/1-whats-the-password.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "2. ....and again?",
+         "slug": "2-and-again",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/2-and-again.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "3. Newline Troubles",
+         "slug": "3-newline-troubles",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/3-newline-troubles.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "4. Reasoning about files",
+         "slug": "4-reasoning-about-files",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/4-reasoning-about-files.md",
+         "date": "2026-01-10"
+        },
+        {
+         "name": "5. Specifying Filenames",
+         "slug": "5-specifying-filenames",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/5-specifying-filenames.md",
+         "date": "2026-01-18"
+        },
+        {
+         "name": "6. Binary & Hex Encoding",
+         "slug": "6-binary-hex-encoding",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/6-binary-hex-encoding.md",
+         "date": "2026-01-18"
+        },
+        {
+         "name": "7. More Hex",
+         "slug": "7-more-hex",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/7-more-hex.md",
+         "date": "2026-01-18"
+        },
+        {
+         "name": "8. Decoding Hex",
+         "slug": "8-decoding-hex",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/8-decoding-hex.md",
+         "date": "2026-01-19"
+        },
+        {
+         "name": "9. Encoding Practice",
+         "slug": "9-encoding-practice",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/9-encoding-practice.md",
+         "date": "2026-01-19"
+        },
+        {
+         "name": "10. Hex-Encoding ASCII",
+         "slug": "10-hex-encoding-ascii",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/10-hex-encoding-ascii.md",
+         "date": "2026-01-19"
+        },
+        {
+         "name": "11. Nested Encoding",
+         "slug": "11-nested-encoding",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/11-nested-encoding.md",
+         "date": "2026-01-19"
+        },
+        {
+         "name": "12. Hex-Encoding with UTF-8",
+         "slug": "12-hex-encoding-with-utf-8",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/12-hex-encoding-with-utf-8.md",
+         "date": "2026-01-19"
+        },
+        {
+         "name": "13. UTF Mixups",
+         "slug": "13-utf-mixups",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/13-utf-mixups.md",
+         "date": "2026-01-20"
+        },
+        {
+         "name": "14. Modifying Encoding Data",
+         "slug": "14-modifying-encoding-data",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/14-modifying-encoding-data.md",
+         "date": "2026-01-20"
+        },
+        {
+         "name": "15. Decoding Base64",
+         "slug": "15-decoding-base64",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/15-decoding-base64.md",
+         "date": "2026-01-20"
+        },
+        {
+         "name": "16. Encoding Base64",
+         "slug": "16-encoding-base64",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/16-encoding-base64.md",
+         "date": "2026-01-20"
+        },
+        {
+         "name": "17. Dealing with Obfuscation",
+         "slug": "17-dealing-with-obfuscation",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/17-dealing-with-obfuscation.md",
+         "date": "2026-01-20"
+        },
+        {
+         "name": "18. Dealing with Obfuscation",
+         "slug": "18-dealing-with-obfuscation",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/18-dealing-with-obfuscation.md",
+         "date": "2026-01-20"
+        },
+        {
+         "name": "19. Dealing with Obfuscation 2",
+         "slug": "19-dealing-with-obfuscation-2",
+         "file": "content/cyber/pwn-college/playing-with-programs/1-dealing-with-data/19-dealing-with-obfuscation-2.md",
+         "date": "2026-01-20"
+        }
+       ]
+      }
+     ],
+     "notes": [
+      {
+       "name": "2. Talking Web",
+       "slug": "2-talking-web",
+       "file": "content/cyber/pwn-college/playing-with-programs/2-talking-web/0-introduction.md",
+       "date": "2026-01-20"
+      }
+     ]
+    },
+    {
+     "name": "White Belt",
+     "slug": "white-belt",
+     "dirs": [
+      {
+       "name": "Computing 101",
+       "slug": "computing-101",
+       "dirs": [
+        {
+         "name": "3. The Stack",
+         "slug": "3-the-stack",
+         "dirs": [],
+         "notes": [
+          {
+           "name": "1. The Stack",
+           "slug": "1-the-stack",
+           "file": "content/cyber/pwn-college/white-belt/computing-101/3-the-stack/1-the-stack.md",
+           "date": "2026-07-05"
+          },
+          {
+           "name": "2. Stack Offsets",
+           "slug": "2-stack-offsets",
+           "file": "content/cyber/pwn-college/white-belt/computing-101/3-the-stack/2-stack-offsets.md",
+           "date": "2026-07-05"
+          },
+          {
+           "name": "3. Program Arguments on the Stack",
+           "slug": "3-program-arguments-on-the-stack",
+           "file": "content/cyber/pwn-college/white-belt/computing-101/3-the-stack/3-program-arguments-on-the-stack.md",
+           "date": "2026-07-09"
+          },
+          {
+           "name": "4. Popping From the Stack",
+           "slug": "4-popping-from-the-stack",
+           "file": "content/cyber/pwn-college/white-belt/computing-101/3-the-stack/4-popping-from-the-stack.md",
+           "date": "2026-07-09"
+          },
+          {
+           "name": "5. Stack Addresses as Number Line",
+           "slug": "5-stack-addresses-as-number-line",
+           "file": "content/cyber/pwn-college/white-belt/computing-101/3-the-stack/5-stack-addresses-as-number-line.md",
+           "date": "2026-07-09"
+          }
+         ]
+        }
+       ],
+       "notes": [
+        {
+         "name": "4. NIbbling on Numbers",
+         "slug": "4-nibbling-on-numbers",
+         "file": "content/cyber/pwn-college/white-belt/computing-101/4-nibbling-on-numbers/0-nibbling-on-numbers.md",
+         "date": "2026-07-09"
+        }
+       ]
+      }
+     ],
+     "notes": []
+    }
+   ],
+   "notes": [
+    {
+     "name": "Advent of Pwn 2025",
+     "slug": "advent-of-pwn-2025",
+     "file": "content/cyber/pwn-college/advent-of-pwn-2025/01-santas-check-list.md",
+     "date": "2025-12-01"
+    }
+   ]
+  },
+  {
+   "name": "React2Shell",
+   "slug": "react2shell",
+   "dirs": [],
+   "notes": [
+    {
+     "name": "01. Introduction",
+     "slug": "01-introduction",
+     "file": "content/cyber/react2shell/01-introduction.md",
+     "date": "2025-12-09"
+    },
+    {
+     "name": "02. Understanding React Server Components and the Flight Protocol",
+     "slug": "02-understanding-react-server-components-and-the-flight-protocol",
+     "file": "content/cyber/react2shell/02-understanding-react-server-components-and-the-flight-protocol.md",
+     "date": "2025-12-09"
+    },
+    {
+     "name": "03. The Core Vulnerability - Unsafe Deserialization",
+     "slug": "03-the-core-vulnerability-unsafe-deserialization",
+     "file": "content/cyber/react2shell/03-the-core-vulnerability-unsafe-deserialization.md",
+     "date": "2025-12-09"
+    },
+    {
+     "name": "04. The Exploitation Chain- From Deserialization to Remote Code Execution",
+     "slug": "04-the-exploitation-chain-from-deserialization-to-remote-code-execution",
+     "file": "content/cyber/react2shell/04-the-exploitation-chain-from-deserialization-to-remote-code-execution.md",
+     "date": "2025-12-09"
+    },
+    {
+     "name": "05 .Analysing an Actual Proof-of-Concept",
+     "slug": "05-analysing-an-actual-proof-of-concept",
+     "file": "content/cyber/react2shell/05-analysing-an-actual-proof-of-concept.md",
+     "date": "2025-12-09"
+    },
+    {
+     "name": "06. Exploitation",
+     "slug": "06-exploitation",
+     "file": "content/cyber/react2shell/06-exploitation.md",
+     "date": "2025-12-09"
+    },
+    {
+     "name": "07. Detection",
+     "slug": "07-detection",
+     "file": "content/cyber/react2shell/07-detection.md",
+     "date": "2025-12-09"
+    },
+    {
+     "name": "08. Conclusion",
+     "slug": "08-conclusion",
+     "file": "content/cyber/react2shell/08-conclusion.md",
+     "date": "2025-12-09"
+    }
+   ]
+  },
+  {
+   "name": "TryHackMe - Advent of Cyber",
+   "slug": "tryhackme-advent-of-cyber",
+   "dirs": [],
+   "notes": [
+    {
+     "name": "Day03- Splunk Basics - Did you SIEM?",
+     "slug": "day03-splunk-basics-did-you-siem",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day03-splunk-basics-did-you-siem.md",
+     "date": "2025-12-04"
+    },
+    {
+     "name": "Day04 - AI In Security",
+     "slug": "day04-ai-in-security",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day04-ai-in-security.md",
+     "date": "2025-12-06"
+    },
+    {
+     "name": "Day05 - IDOR",
+     "slug": "day05-idor",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day05-idor.md",
+     "date": "2025-12-06"
+    },
+    {
+     "name": "Day06 - Malware Analysis",
+     "slug": "day06-malware-analysis",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day06-malware-analysis.md",
+     "date": "2025-12-08"
+    },
+    {
+     "name": "Day07 - Network Discovery",
+     "slug": "day07-network-discovery",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day07-network-discovery.md",
+     "date": "2025-12-08"
+    },
+    {
+     "name": "Day08 - Prompt Injection - Sched-yule conflict",
+     "slug": "day08-prompt-injection-sched-yule-conflict",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day08-prompt-injection-sched-yule-conflict.md",
+     "date": "2025-12-09"
+    },
+    {
+     "name": "Day09 - Passwords - A Cracking ChristmasLearn how to crack password-based encrypted files.",
+     "slug": "day09-passwords-a-cracking-christmaslearn-how-to-crack-password-based-encrypted-files",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day09-passwords-a-cracking-christmaslearn-how-to-crack-password-based-encrypted-files.md",
+     "date": "2025-12-10"
+    },
+    {
+     "name": "Day10 - SOC Alert Triaging - Tinsel Triage",
+     "slug": "day10-soc-alert-triaging-tinsel-triage",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day10-soc-alert-triaging-tinsel-triage.md",
+     "date": "2025-12-13"
+    },
+    {
+     "name": "Day11 - XSS",
+     "slug": "day11-xss",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day11-xss.md",
+     "date": "2025-12-13"
+    },
+    {
+     "name": "Day12 - Phishing",
+     "slug": "day12-phishing",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day12-phishing.md",
+     "date": "2025-12-13"
+    },
+    {
+     "name": "Day13 - Yara Rules - YARA mean one!",
+     "slug": "day13-yara-rules-yara-mean-one",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day13-yara-rules-yara-mean-one.md",
+     "date": "2025-12-14"
+    },
+    {
+     "name": "Day14 - Containers - DoorDasher's Demise",
+     "slug": "day14-containers-doordashers-demise",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day14-containers-doordashers-demise.md",
+     "date": "2025-12-15"
+    },
+    {
+     "name": "Day15 - Web Attack Forensics - Drone Alone",
+     "slug": "day15-web-attack-forensics-drone-alone",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day15-web-attack-forensics-drone-alone.md",
+     "date": "2025-12-17"
+    },
+    {
+     "name": "Day16 - Forensics - Registry Furensics",
+     "slug": "day16-forensics-registry-furensics",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day16-forensics-registry-furensics.md",
+     "date": "2025-12-17"
+    },
+    {
+     "name": "Day17 - Cyberchef  - Hoperation Save McSkidy",
+     "slug": "day17-cyberchef-hoperation-save-mcskidy",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day17-cyberchef-hoperation-save-mcskidy.md",
+     "date": "2025-12-18"
+    },
+    {
+     "name": "Day18 - Obfuscation - The Egg Shell File",
+     "slug": "day18-obfuscation-the-egg-shell-file",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day18-obfuscation-the-egg-shell-file.md",
+     "date": "2025-12-20"
+    },
+    {
+     "name": "Day19- ICS.Modbus - Claus for Concern",
+     "slug": "day19-ics-modbus-claus-for-concern",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day19-ics-modbus-claus-for-concern.md",
+     "date": "2025-12-20"
+    },
+    {
+     "name": "Day20 - Malware Analysis - Malhare.exe",
+     "slug": "day20-malware-analysis-malhare-exe",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day20-malware-analysis-malhare-exe.md",
+     "date": "2025-12-23"
+    },
+    {
+     "name": "Day21 - C2 Detection - Command & Carol",
+     "slug": "day21-c2-detection-command-carol",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day21-c2-detection-command-carol.md",
+     "date": "2025-12-25"
+    },
+    {
+     "name": "Day22-  AWS Security - S3cret Santa",
+     "slug": "day22-aws-security-s3cret-santa",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day22-aws-security-s3cret-santa.md",
+     "date": "2025-12-25"
+    },
+    {
+     "name": "Day24 - Exploitation with cURL - Hoperation Eggsploit",
+     "slug": "day24-exploitation-with-curl-hoperation-eggsploit",
+     "file": "content/cyber/tryhackme-advent-of-cyber/day24-exploitation-with-curl-hoperation-eggsploit.md",
+     "date": "2025-12-25"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "name": "cloudSEK",
+   "slug": "cloudsek",
+   "file": "content/cyber/cloudsek/cloudsek-ctf-writeups.md",
+   "date": "2025-12-06"
+  }
+ ]
+}
