@@ -13,7 +13,7 @@
 window.SITE = {
   name: "bluenets1",
   // used to build absolute links in the RSS feed — change to your real domain
-  url: "https://bluenets1.github.io/bluenets1",
+  url: "https://bluenets1.github.io",
   avatar: "assets/pfp.jpeg",
   roles: ["ai engineer", "low-level engineer", "security researcher"],
   bio: "I like knowing how things work one layer below where most people stop — from attention heads to page tables to the bugs hiding between them.",

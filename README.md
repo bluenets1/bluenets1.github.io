@@ -44,7 +44,7 @@ It's a static site, so GitHub Pages serves it directly — no Python needed in
 production. Settings → Pages → Source: `main` / root.
 
 - `.nojekyll` is committed so image folders named `_img/` (underscore) are served.
-- All asset paths are relative, so it works at a project-page subpath
-  (`https://bluenets1.github.io/bluenets1/`).
+- All asset paths are relative, so it works both at the user-page root
+  (`https://bluenets1.github.io/`) and at a project-page subpath.
 - Set `url` in `content/site.js` to the deployed URL and re-run `node tools/gen_feed.js`
   so the RSS links are absolute-correct.
