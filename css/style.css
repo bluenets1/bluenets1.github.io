@@ -20,6 +20,7 @@
 
 * { box-sizing: border-box; }
 
+html, body { max-width: 100%; overflow-x: hidden; }   /* no horizontal page scroll on phones */
 html { -webkit-text-size-adjust: 100%; }
 
 body {
@@ -146,7 +147,7 @@ a.tl-headline:hover { color: var(--link); }
 .sidebar-list .s-meta { display: block; color: var(--ink-dim); font-size: 13px; margin-top: 2px; }
 
 /* ---------- listings ---------- */
-.crumbs { font-size: 15px; color: var(--ink-dim); margin-bottom: 10px; }
+.crumbs { font-size: 15px; color: var(--ink-dim); margin-bottom: 10px; overflow-wrap: anywhere; }
 .crumbs a { color: var(--link); }
 .crumbs .sep { color: var(--ink-dim); margin: 0 6px; text-decoration: none; }
 .page-head { margin-bottom: 18px; }
@@ -184,7 +185,8 @@ a.tl-headline:hover { color: var(--link); }
 .toc li { margin: 2px 0; }
 .toc li.h3 { padding-left: 18px; }
 
-.prose { font-size: 18px; }
+.prose { font-size: 18px; overflow-wrap: break-word; word-break: break-word; }
+.prose pre, figure.code, .prose table, .prose img, .video { max-width: 100%; }
 .prose > *:first-child { margin-top: 0; }
 .prose p, .prose ul, .prose ol { margin: 0 0 1.05em; }
 .prose h2 { font-size: 27px; margin: 1.5em 0 .45em; padding-bottom: 3px; border-bottom: 1px solid var(--rule-soft); }
@@ -200,7 +202,7 @@ a.tl-headline:hover { color: var(--link); }
 .prose blockquote { margin: 0 0 1.05em; padding: 2px 0 2px 18px; border-left: 3px solid var(--rule); color: var(--ink-soft); font-style: italic; }
 .prose blockquote p:last-child { margin-bottom: 0; }
 
-.prose :not(pre) > code { font-family: var(--mono); font-size: .82em; background: #f3f3f0; border: 1px solid #e4e4de; padding: .06em .32em; border-radius: 3px; color: #7a1f1f; }
+.prose :not(pre) > code { font-family: var(--mono); font-size: .82em; background: #f3f3f0; border: 1px solid #e4e4de; padding: .06em .32em; border-radius: 3px; color: #7a1f1f; overflow-wrap: anywhere; }
 
 .callout { background: #f7f7f2; border-left: 3px solid var(--ink-dim) !important; padding: 12px 18px !important; font-style: normal !important; }
 .callout-title { font-family: var(--mono); font-size: 12px; text-transform: uppercase; letter-spacing: .05em; font-weight: 600; color: var(--ink-dim); margin-bottom: 3px; }
