@@ -69,7 +69,7 @@ window.SITE = {
       role: "Software Engineer Intern",
       kind: "Internship",
       location: "Hyderabad, Telangana, India · Remote",
-      period: "Oct 2024 — Jul 2025 · 10 mos",
+      period: "Feb 2025 — Jul 2025 · 6 mos",
       points: [
         "Developed and managed APIs to ensure data consistency in the Prisma backend.",
         "Collaborated with the team at HackerRank to enhance backend functionalities.",
