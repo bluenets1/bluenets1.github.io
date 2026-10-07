@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" role="img" aria-labelledby="title desc">
+  <title id="title">Low-level path from an agent tool call to a desktop event</title>
+  <desc id="desc">The model returns structured JSON. A host validates it, xdotool and Xlib send an XTEST request over a Unix socket, Xvfb synthesizes input events, and an application handles them. A screenshot returns through the host.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 10 5 0 10z" fill="#44666a"/></marker>
+    <marker id="back" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 10 5 0 10z" fill="#bc6948"/></marker>
+  </defs>
+  <rect width="1000" height="380" rx="18" fill="#f4f3ee"/>
+  <g font-family="system-ui, sans-serif" text-anchor="middle">
+    <rect x="24" y="72" width="150" height="100" rx="12" fill="#fff" stroke="#d0cec5"/>
+    <text x="99" y="108" font-size="17" font-weight="700" fill="#263536">Model API</text>
+    <text x="99" y="135" font-size="13" fill="#596567">tool_use JSON</text>
+
+    <rect x="207" y="72" width="165" height="100" rx="12" fill="#fff1d9" stroke="#dfc99d"/>
+    <text x="289" y="108" font-size="17" font-weight="700" fill="#263536">Host process</text>
+    <text x="289" y="135" font-size="13" fill="#596567">parse, check, route</text>
+
+    <rect x="405" y="72" width="170" height="100" rx="12" fill="#fff" stroke="#d0cec5"/>
+    <text x="490" y="108" font-size="17" font-weight="700" fill="#263536">xdotool + Xlib</text>
+    <text x="490" y="135" font-size="13" fill="#596567">build XTEST request</text>
+
+    <rect x="610" y="72" width="170" height="100" rx="12" fill="#e4efec" stroke="#a8c4bd"/>
+    <text x="695" y="108" font-size="17" font-weight="700" fill="#263536">Xvfb / X server</text>
+    <text x="695" y="135" font-size="13" fill="#596567">XTEST events</text>
+
+    <rect x="815" y="72" width="160" height="100" rx="12" fill="#fff" stroke="#d0cec5"/>
+    <text x="895" y="108" font-size="17" font-weight="700" fill="#263536">GUI application</text>
+    <text x="895" y="135" font-size="13" fill="#596567">handles X events</text>
+
+    <path d="M174 122h26M372 122h27M575 122h29M780 122h29" fill="none" stroke="#44666a" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <text x="490" y="53" font-size="12" fill="#596567">action direction</text>
+
+    <rect x="307" y="213" width="404" height="76" rx="11" fill="#fff" stroke="#d0cec5"/>
+    <text x="509" y="240" font-size="14" font-weight="700" fill="#263536">Linux boundary inside the X11 client</text>
+    <text x="509" y="265" font-size="13" fill="#596567">Xlib buffer → write / writev → kernel socket layer</text>
+    <path d="M490 172v36" fill="none" stroke="#44666a" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <path d="M895 177v139H289V177" fill="none" stroke="#bc6948" stroke-width="2.5" marker-end="url(#back)"/>
+    <text x="590" y="341" font-size="13" fill="#8d523a">capture pixels → image result → next model turn</text>
+  </g>
+</svg>

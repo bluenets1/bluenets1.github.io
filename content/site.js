@@ -122,10 +122,8 @@ window.SITE = {
           title: "llm-internals",
           desc: "what actually happens inside a transformer",
           posts: [
+            { slug: "how-an-ai-model-uses-a-computer", title: "How an AI Model Uses a Computer", date: "2026-10-07", tags: ["agents", "computer-use", "vision"] },
             { slug: "stop-paying-your-llm-to-say-wait", title: "Stop Paying Your LLM to Say “Wait”", date: "2026-09-25", tags: ["llms", "reasoning", "inference"] },
-            { slug: "kv-cache-and-inference", title: "the kv cache, and why inference is fast", date: "2026-09-27", tags: ["transformers", "inference"] },
-            { slug: "attention-from-scratch", title: "attention from scratch", date: "2026-09-20", tags: ["transformers", "python"] },
-            { slug: "rope-positional-encoding", title: "rope: rotary position embeddings", date: "2026-09-18", tags: ["transformers", "positions"] }
           ]
         },
         {

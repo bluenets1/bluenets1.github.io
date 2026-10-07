@@ -44,13 +44,14 @@
     <description>An introduction to malware analysis, framed the way a defender actually approaches it.</description>
   </item>
   <item>
-    <title>the kv cache, and why inference is fast</title>
-    <link>https://bluenets1.github.io/#/ai-writings/llm-internals/kv-cache-and-inference</link>
-    <guid isPermaLink="false">https://bluenets1.github.io/#/ai-writings/llm-internals/kv-cache-and-inference</guid>
-    <pubDate>Sun, 27 Sep 2026 12:00:00 GMT</pubDate>
-    <category>transformers</category>
-    <category>inference</category>
-    <description>The single biggest reason autoregressive generation is fast enough to be useful is the KV cache. Without it, generating token n would re-read the entire prompt from scratch.</description>
+    <title>How an AI Model Uses a Computer</title>
+    <link>https://bluenets1.github.io/#/ai-writings/llm-internals/how-an-ai-model-uses-a-computer</link>
+    <guid isPermaLink="false">https://bluenets1.github.io/#/ai-writings/llm-internals/how-an-ai-model-uses-a-computer</guid>
+    <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+    <category>agents</category>
+    <category>computer-use</category>
+    <category>vision</category>
+    <description>A low-level tour of computer-use agents, from JSON tool calls through x86-64 syscalls, XTEST, platform input APIs, screenshot patches, coordinate transforms, and context management.</description>
   </item>
   <item>
     <title>a tour of virtual memory</title>
@@ -88,24 +89,6 @@
     <category>json</category>
     <category>production</category>
     <description>"Just ask it to return JSON" works until it doesn't. Here is how to get structured output you can actually parse in production.</description>
-  </item>
-  <item>
-    <title>attention from scratch</title>
-    <link>https://bluenets1.github.io/#/ai-writings/llm-internals/attention-from-scratch</link>
-    <guid isPermaLink="false">https://bluenets1.github.io/#/ai-writings/llm-internals/attention-from-scratch</guid>
-    <pubDate>Sun, 20 Sep 2026 12:00:00 GMT</pubDate>
-    <category>transformers</category>
-    <category>python</category>
-    <description>Attention is the one idea you need to understand transformers. Strip away the jargon and it's a weighted average where the weights are computed on the fly.</description>
-  </item>
-  <item>
-    <title>rope: rotary position embeddings</title>
-    <link>https://bluenets1.github.io/#/ai-writings/llm-internals/rope-positional-encoding</link>
-    <guid isPermaLink="false">https://bluenets1.github.io/#/ai-writings/llm-internals/rope-positional-encoding</guid>
-    <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-    <category>transformers</category>
-    <category>positions</category>
-    <description>Transformers have no inherent sense of order — attention is permutation-invariant. RoPE (rotary position embeddings) fixes this by rotating query and key vectors by an angle proportional to their position.</description>
   </item>
   <item>
     <title>rag is just search with extra steps</title>

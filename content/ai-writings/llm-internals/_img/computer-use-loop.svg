@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">The computer-use agent loop</title>
+  <desc id="desc">A user gives a task to a model. The model proposes an action, a host program runs it on a computer, and a screenshot returns to the model.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10z" fill="#44666a"/></marker></defs>
+  <rect width="900" height="260" rx="18" fill="#f4f3ee"/>
+  <g font-family="system-ui, sans-serif" text-anchor="middle">
+    <rect x="30" y="73" width="150" height="104" rx="12" fill="#fff" stroke="#d0cec5"/>
+    <text x="105" y="112" font-size="18" font-weight="700" fill="#263536">User</text><text x="105" y="140" font-size="13" fill="#596567">“Update this cell”</text>
+    <rect x="260" y="73" width="165" height="104" rx="12" fill="#e4efec" stroke="#a8c4bd"/>
+    <text x="342" y="112" font-size="18" font-weight="700" fill="#263536">Model</text><text x="342" y="140" font-size="13" fill="#596567">reads, chooses</text>
+    <rect x="505" y="73" width="165" height="104" rx="12" fill="#fff1d9" stroke="#dfc99d"/>
+    <text x="587" y="112" font-size="18" font-weight="700" fill="#263536">Host program</text><text x="587" y="140" font-size="13" fill="#596567">checks, performs</text>
+    <rect x="750" y="73" width="120" height="104" rx="12" fill="#fff" stroke="#d0cec5"/>
+    <text x="810" y="112" font-size="18" font-weight="700" fill="#263536">Desktop</text><text x="810" y="140" font-size="13" fill="#596567">changes</text>
+    <path d="M180 125h72M425 125h72M670 125h72" fill="none" stroke="#44666a" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M810 183v38H342v-38" fill="none" stroke="#44666a" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <text x="575" y="246" font-size="13" fill="#596567">fresh screenshot and tool result</text>
+    <text x="458" y="51" font-size="13" fill="#596567">tool request</text>
+  </g>
+</svg>

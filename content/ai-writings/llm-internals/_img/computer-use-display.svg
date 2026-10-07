@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">A headless computer-use desktop</title>
+  <desc id="desc">Applications draw into a window manager and X server. Xvfb stores the virtual display in memory. The host captures screenshots and injects input.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 10 5 0 10z" fill="#44666a"/></marker></defs>
+  <rect width="900" height="330" rx="18" fill="#f4f3ee"/>
+  <g font-family="system-ui, sans-serif" text-anchor="middle">
+    <rect x="45" y="48" width="190" height="74" rx="11" fill="#fff" stroke="#d0cec5"/><text x="140" y="79" font-size="17" font-weight="700" fill="#263536">Browser / app</text><text x="140" y="101" font-size="13" fill="#596567">draws windows</text>
+    <rect x="45" y="206" width="190" height="74" rx="11" fill="#fff" stroke="#d0cec5"/><text x="140" y="237" font-size="17" font-weight="700" fill="#263536">Input events</text><text x="140" y="259" font-size="13" fill="#596567">clicks and keys</text>
+    <rect x="330" y="48" width="220" height="232" rx="14" fill="#e4efec" stroke="#a8c4bd"/><text x="440" y="86" font-size="18" font-weight="700" fill="#263536">X server</text><text x="440" y="112" font-size="13" fill="#596567">windows, pixels, input</text>
+    <rect x="370" y="151" width="140" height="82" rx="9" fill="#fff" stroke="#b7ccc5"/><text x="440" y="184" font-size="16" font-weight="700" fill="#263536">Xvfb</text><text x="440" y="207" font-size="13" fill="#596567">framebuffer in memory</text>
+    <rect x="660" y="48" width="190" height="74" rx="11" fill="#fff1d9" stroke="#dfc99d"/><text x="755" y="79" font-size="17" font-weight="700" fill="#263536">Screenshot</text><text x="755" y="101" font-size="13" fill="#596567">pixels sent to model</text>
+    <rect x="660" y="206" width="190" height="74" rx="11" fill="#fff1d9" stroke="#dfc99d"/><text x="755" y="237" font-size="17" font-weight="700" fill="#263536">Input tool</text><text x="755" y="259" font-size="13" fill="#596567">acts on this display</text>
+    <path d="M235 85h85M235 243h85M550 85h100M650 243h-90" fill="none" stroke="#44666a" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <text x="450" y="313" font-size="13" fill="#596567">No physical monitor required. All parts must use the same display.</text>
+  </g>
+</svg>

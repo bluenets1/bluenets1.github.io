@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Choosing between shell, screen, or both</title>
+  <desc id="desc">Use a shell or API for structured repeatable operations. Use the screen for visual applications. Combine them when a structured action needs visual confirmation.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 10 5 0 10z" fill="#44666a"/></marker></defs>
+  <rect width="900" height="300" rx="18" fill="#f4f3ee"/>
+  <g font-family="system-ui, sans-serif" text-anchor="middle">
+    <rect x="45" y="74" width="220" height="145" rx="13" fill="#fff" stroke="#d0cec5"/><text x="155" y="111" font-size="19" font-weight="700" fill="#263536">Shell or API</text><text x="155" y="145" font-size="14" fill="#596567">structured data</text><text x="155" y="168" font-size="14" fill="#596567">repeatable operation</text><text x="155" y="191" font-size="14" fill="#596567">easy to verify</text>
+    <rect x="340" y="74" width="220" height="145" rx="13" fill="#fff1d9" stroke="#dfc99d"/><text x="450" y="111" font-size="19" font-weight="700" fill="#263536">Screen</text><text x="450" y="145" font-size="14" fill="#596567">layout and visual context</text><text x="450" y="168" font-size="14" fill="#596567">unfamiliar applications</text><text x="450" y="191" font-size="14" fill="#596567">no structured interface</text>
+    <rect x="635" y="74" width="220" height="145" rx="13" fill="#e4efec" stroke="#a8c4bd"/><text x="745" y="111" font-size="19" font-weight="700" fill="#263536">Both</text><text x="745" y="145" font-size="14" fill="#596567">inspect visually</text><text x="745" y="168" font-size="14" fill="#596567">act precisely by API</text><text x="745" y="191" font-size="14" fill="#596567">confirm on screen</text>
+    <path d="M265 147h63M560 147h63" fill="none" stroke="#44666a" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <text x="450" y="264" font-size="14" fill="#596567">Choose the interface that gives the clearest evidence and control.</text>
+  </g>
+</svg>
