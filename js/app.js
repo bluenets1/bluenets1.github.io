@@ -2,6 +2,8 @@
   "use strict";
 
   const S = window.SITE;
+  const SITE_ROOT = new URL("../", document.currentScript.src);
+  const siteFile = (path) => new URL(path, SITE_ROOT);
   const $ = (sel, el = document) => el.querySelector(sel);
   const view = $("#view");
 
@@ -203,12 +205,12 @@
 
     let md;
     try {
-      const res = await fetch(path, { cache: "no-cache" });
+      const res = await fetch(siteFile(path), { cache: "no-cache" });
       if (!res.ok) throw new Error(res.status);
       md = await res.text();
     } catch (e) {
       view.innerHTML = `<div class="notfound"><h1>Couldn't load this post</h1>
-        <p>If you opened <code>index.html</code> straight from disk, serve the folder instead:<br><code>python3 -m http.server</code></p>
+        <p>The post couldn't be loaded from the site. It may be missing from the deployment.</p>
         <p><a href="#/${sec.slug}/${top.slug}">Back to ${esc(top.title)}</a></p></div>`;
       return;
     }
@@ -373,7 +375,7 @@
 
   async function loadCyber() {
     try {
-      const res = await fetch("content/cyber-index.json", { cache: "no-cache" });
+      const res = await fetch(siteFile("content/cyber-index.json"), { cache: "no-cache" });
       if (!res.ok) throw new Error(res.status);
       CYBER = await res.json();
     } catch (e) {
@@ -424,7 +426,7 @@
 
   function cyberRoot(sec) {
     if (CYBER_ERR)
-      return notFound("Couldn't load the notes index. Serve the folder with a web server (e.g. python3 -m http.server).");
+      return notFound("Couldn't load the notes index from the site. It may be missing from the deployment.");
     if (!CYBER) { view.innerHTML = `<p class="dim">Loading notes…</p>`; return; }
     setSidebar(false);
     view.innerHTML = `
@@ -482,7 +484,7 @@
 
     let md;
     try {
-      const res = await fetch(note.file, { cache: "no-cache" });
+      const res = await fetch(siteFile(note.file), { cache: "no-cache" });
       if (!res.ok) throw new Error(res.status);
       md = await res.text();
     } catch (e) {
